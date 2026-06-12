@@ -2,8 +2,13 @@ import { getMlBaseUrl, type MlEventPayload } from "@/lib/ml-api";
 
 export async function POST(request: Request) {
   try {
+    const mlBaseUrl = getMlBaseUrl();
+    if (!mlBaseUrl) {
+      return new Response(null, { status: 204 });
+    }
+
     const event = (await request.json()) as MlEventPayload;
-    await fetch(`${getMlBaseUrl()}/events`, {
+    await fetch(`${mlBaseUrl}/events`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(event),

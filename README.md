@@ -59,6 +59,33 @@ Provider adapters (GSMA Open Gateway, Vonage Silent Auth, custom operator), a tr
 - Full documentation: [docs/TELECOM_IDENTITY.md](docs/TELECOM_IDENTITY.md)
 - Environment variables: [.env.example](.env.example)
 
+## Vercel Deployment Notes
+
+Set production environment variables in Vercel Project Settings, not in source
+code. Keep server secrets unprefixed; only safe browser values should use
+`NEXT_PUBLIC_`.
+
+Required production variables:
+
+```bash
+TELECOM_IDENTITY_PROVIDER=mock
+TELECOM_COUNTRY=KZ
+TELECOM_OPERATOR_HINT=Beeline
+TELECOM_DEV_MODE=false
+TELECOM_OTP_PROVIDER=twilio
+TELECOM_OTP_ENABLED=true
+TWILIO_ACCOUNT_SID=...
+TWILIO_AUTH_TOKEN=...
+TWILIO_VERIFY_SERVICE_SID=...
+NEXT_PUBLIC_DEMO_BASE_URL=https://<vercel-domain>
+```
+
+The live QR counter uses in-memory demo state for the local LAN stage demo. It
+is reliable for `npm run dev -- --hostname 0.0.0.0` on one machine. On Vercel
+production, serverless instances can cold-start or scale, so the cross-device
+counter is not guaranteed to be durable unless a shared store such as Supabase,
+Vercel KV, or Redis is configured behind the same `/api/demo/*` routes.
+
 ## Project Structure
 
 ```

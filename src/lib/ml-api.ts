@@ -2,7 +2,7 @@ import type { Deal } from "@/types/birge";
 import type { StoredBirgeProfile } from "@/lib/kz-options";
 
 export function getMlBaseUrl() {
-  return process.env.NEXT_PUBLIC_ML_API_URL || "http://127.0.0.1:8011";
+  return process.env.NEXT_PUBLIC_ML_API_URL?.replace(/\/$/, "") || null;
 }
 
 export const demoMlUser = {
@@ -117,7 +117,10 @@ export async function rankDealsWithMl(
   if (deals.length === 0) return deals;
 
   try {
-    const response = await fetch(`${getMlBaseUrl()}/recommendations`, {
+    const mlBaseUrl = getMlBaseUrl();
+    if (!mlBaseUrl) return null;
+
+    const response = await fetch(`${mlBaseUrl}/recommendations`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -185,7 +188,10 @@ export function getStoredMlUserProfile(): MlUserProfile {
 
 export async function getMlTrustScore(userId = demoMlUser.id): Promise<MlTrustScoreResponse | null> {
   try {
-    const response = await fetch(`${getMlBaseUrl()}/trust-score?user_id=${encodeURIComponent(userId)}`, {
+    const mlBaseUrl = getMlBaseUrl();
+    if (!mlBaseUrl) return null;
+
+    const response = await fetch(`${mlBaseUrl}/trust-score?user_id=${encodeURIComponent(userId)}`, {
       cache: "no-store",
       signal: fetchTimeout(1200),
     });
