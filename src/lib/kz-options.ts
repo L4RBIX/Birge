@@ -34,6 +34,7 @@ export interface StoredBirgeProfile {
   budgetBand: string;
   budgetMin?: number;
   budgetMax?: number;
+  interests?: string[];
 }
 
 export function formatKztNumber(value: number): string {

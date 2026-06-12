@@ -1,19 +1,75 @@
+"use client";
+
 import Link from "next/link";
+import { useEffect, useState } from "react";
 import { BannerStrip } from "@/components/BannerStrip";
 import { DealVisual } from "@/components/DealVisual";
 import { ProfileIdentitySummary } from "@/components/ProfileIdentitySummary";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { TelecomProfileCard } from "@/components/telecom/TelecomProfileCard";
-import { deals, formatKzt, profile } from "@/lib/birge-content";
-import { getMlTrustScore } from "@/lib/ml-api";
+import { deals, formatKzt } from "@/lib/birge-content";
+import type { StoredBirgeProfile } from "@/lib/kz-options";
+import { clearCurrentUser, getCurrentUser } from "@/lib/user-store";
 
-export default async function ProfilePage() {
-  const mlTrust = await getMlTrustScore();
-  const trustScore = mlTrust?.trust_score ?? profile.trustScore;
-  const trustDecision = mlTrust?.decision ?? "allow";
+export default function ProfilePage() {
+  const [user, setUser] = useState<StoredBirgeProfile | null | "loading">("loading");
+
+  useEffect(() => {
+    const timer = window.setTimeout(() => {
+      setUser(getCurrentUser());
+    }, 0);
+
+    return () => window.clearTimeout(timer);
+  }, []);
+
   const activeDeals = deals.slice(0, 3);
   const closedDeals = deals.slice(8, 11);
+
+  if (user === "loading") {
+    return (
+      <div className="bg-white">
+        <BannerStrip />
+        <SiteHeader />
+        <main className="max-w-[1440px] mx-auto px-[24px] py-[56px]">
+          <div className="h-[200px]" />
+        </main>
+        <SiteFooter />
+      </div>
+    );
+  }
+
+  if (user === null) {
+    return (
+      <div className="bg-white">
+        <BannerStrip />
+        <SiteHeader />
+        <main className="max-w-[1440px] mx-auto px-[24px] py-[56px]">
+          <section className="max-w-[520px]">
+            <p className="text-[13px] leading-[17px] font-bold text-[#007f67]">
+              Профиль
+            </p>
+            <h1 className="mt-[12px] text-[38px] leading-[48px] font-normal">
+              Профиль не создан
+            </h1>
+            <p className="mt-[16px] text-[15px] leading-5 text-ff-gray-text">
+              Сначала создайте профиль — войдите через номер телефона и заполните данные. Это
+              займёт меньше минуты.
+            </p>
+            <Link
+              href="/onboarding"
+              className="mt-[24px] inline-flex h-[50px] items-center justify-center bg-[rgb(34,34,34)] px-[24px] text-[15px] font-bold text-white"
+            >
+              Создать профиль
+            </Link>
+          </section>
+        </main>
+        <SiteFooter />
+      </div>
+    );
+  }
+
+  const interests = user.interests ?? [];
 
   return (
     <div className="bg-white">
@@ -23,18 +79,20 @@ export default async function ProfilePage() {
         <section className="grid gap-[32px] lg:grid-cols-[1fr_2fr]">
           <ProfileIdentitySummary
             fallback={{
-              name: profile.name,
-              city: profile.city,
-              budgetBand: profile.budgetBand,
+              name: user.name,
+              city: user.city,
+              budgetBand: user.budgetBand,
+              budgetMin: user.budgetMin,
+              budgetMax: user.budgetMax,
             }}
-            interests={profile.interests}
+            interests={interests}
           />
           <dl className="grid grid-cols-2 gap-[12px] lg:grid-cols-4">
             {[
-              ["Trust Score", `${trustScore}/100`],
-              ["Active deals", String(profile.activeDeals)],
-              ["Closed deals", String(profile.closedDeals)],
-              ["Saved money", formatKzt(profile.savedMoney)],
+              ["Trust Score", "94/100"],
+              ["Active deals", "0"],
+              ["Closed deals", "0"],
+              ["Saved money", "0 ₸"],
             ].map(([label, value]) => (
               <div key={label} className="border border-ff-hairline p-[18px]">
                 <dt className="text-[13px] leading-[17px] text-ff-gray-text">
@@ -66,18 +124,30 @@ export default async function ProfilePage() {
               Security status
             </p>
             <h2 className="mt-[6px] text-[22px] leading-[28px] font-bold">
-              1 SIM = 1 место · {trustDecision}
+              1 SIM = 1 место · allow
             </h2>
             <p className="mt-[8px] text-[15px] leading-5 text-ff-gray-text">
-              {mlTrust?.level_2_story ??
-                "Trust Score растёт после закрытых сделок, подтверждённых оплат и отсутствия дубликатов устройства."}
+              Trust Score растёт после закрытых сделок, подтверждённых оплат и
+              отсутствия дубликатов устройства.
             </p>
           </article>
         </section>
 
-        {/* Telecom identity panel */}
         <section className="pt-[28px]">
           <TelecomProfileCard />
+        </section>
+
+        <section className="pt-[24px]">
+          <button
+            type="button"
+            onClick={() => {
+              clearCurrentUser();
+              setUser(null);
+            }}
+            className="text-[13px] leading-5 text-ff-gray-text underline underline-offset-2"
+          >
+            Сбросить профиль (demo)
+          </button>
         </section>
 
         <section className="pt-[56px]">
@@ -94,7 +164,10 @@ export default async function ProfilePage() {
           </div>
           <div className="mt-[24px] grid gap-[12px] lg:grid-cols-3">
             {activeDeals.map((deal) => (
-              <article key={deal.id} className="grid grid-cols-[112px_1fr] gap-[14px] border border-ff-hairline p-[12px]">
+              <article
+                key={deal.id}
+                className="grid grid-cols-[112px_1fr] gap-[14px] border border-ff-hairline p-[12px]"
+              >
                 <DealVisual deal={deal} className="aspect-[3/4] w-full" compact />
                 <div>
                   <p className="text-[13px] leading-[17px] text-ff-gray-text">
@@ -121,7 +194,10 @@ export default async function ProfilePage() {
           </h2>
           <div className="mt-[24px] grid gap-[12px] lg:grid-cols-3">
             {closedDeals.map((deal) => (
-              <article key={deal.id} className="grid grid-cols-[112px_1fr] gap-[14px] border border-ff-hairline p-[12px]">
+              <article
+                key={deal.id}
+                className="grid grid-cols-[112px_1fr] gap-[14px] border border-ff-hairline p-[12px]"
+              >
                 <DealVisual deal={deal} className="aspect-[3/4] w-full" compact />
                 <div>
                   <p className="text-[13px] leading-[17px] text-ff-gray-text">

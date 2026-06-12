@@ -11,6 +11,7 @@ import {
   type StoredBirgeProfile,
 } from "@/lib/kz-options";
 import { getOrCreateDeviceId } from "@/lib/telecom/device";
+import { clearCurrentUser, getCurrentUser } from "@/lib/user-store";
 
 // ─── OTP API response types (client-side shapes) ──────────────────────────────
 
@@ -170,6 +171,12 @@ function ResultBadge({
 // ─── Page ────────────────────────────────────────────────────────────────────
 
 export default function OnboardingPage() {
+  const [existingUser, setExistingUser] = useState<StoredBirgeProfile | null | "checking">("checking");
+
+  useEffect(() => {
+    setExistingUser(getCurrentUser());
+  }, []);
+
   const [step, setStep] = useState<Step>("phone");
   const [phone, setPhone] = useState("");
   const [consent, setConsent] = useState(false);
@@ -346,6 +353,63 @@ export default function OnboardingPage() {
 
   const phoneValid = isValidKzPhone(phone);
   const canSend = phoneValid && consent && !startLoading;
+
+  if (existingUser === "checking") {
+    return (
+      <main className="min-h-dvh bg-white px-[24px] py-[32px] text-[rgb(34,34,34)]">
+        <section className="mx-auto max-w-[520px]">
+          <span className="text-[24px] leading-none font-bold tracking-[0.18em]">BIRGE</span>
+        </section>
+      </main>
+    );
+  }
+
+  if (existingUser !== null) {
+    return (
+      <main className="min-h-dvh bg-white px-[24px] py-[32px] text-[rgb(34,34,34)]">
+        <section className="mx-auto max-w-[520px]">
+          <Link href="/" className="text-[24px] leading-none font-bold tracking-[0.18em]">
+            BIRGE
+          </Link>
+          <div className="mt-[40px]">
+            <p className="text-[13px] leading-[17px] font-bold text-[#007f67]">
+              Профиль сохранён
+            </p>
+            <h1 className="mt-[8px] text-[34px] leading-[40px] font-normal">
+              С возвращением, {existingUser.name}!
+            </h1>
+            <p className="mt-[12px] text-[15px] leading-5 text-ff-gray-text">
+              {existingUser.city} · {existingUser.budgetBand}
+            </p>
+          </div>
+          <div className="mt-[32px] flex flex-col gap-[12px]">
+            <Link
+              href="/"
+              className="flex h-[50px] w-full items-center justify-center bg-[rgb(34,34,34)] px-[16px] text-[15px] font-bold text-white"
+            >
+              Продолжить →
+            </Link>
+            <Link
+              href="/profile"
+              className="flex h-[50px] w-full items-center justify-center border border-[rgb(34,34,34)] px-[16px] text-[15px] font-bold"
+            >
+              Мой профиль
+            </Link>
+            <button
+              type="button"
+              onClick={() => {
+                clearCurrentUser();
+                setExistingUser(null);
+              }}
+              className="mt-[8px] text-[13px] leading-5 text-ff-gray-text underline underline-offset-2"
+            >
+              Сбросить профиль и начать заново
+            </button>
+          </div>
+        </section>
+      </main>
+    );
+  }
 
   return (
     <main className="min-h-dvh bg-white px-[24px] py-[32px] text-[rgb(34,34,34)]">

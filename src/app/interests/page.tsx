@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import { getCurrentUser, saveCurrentUser } from "@/lib/user-store";
 
 const interests = [
   "Электроника",
@@ -25,6 +26,16 @@ export default function InterestsPage() {
         ? current.filter((value) => value !== item)
         : [...current, item]
     );
+  }
+
+  function handleContinue() {
+    const currentUser = getCurrentUser();
+    if (currentUser) {
+      saveCurrentUser({
+        ...currentUser,
+        interests: selected.map((i) => i.toLowerCase()),
+      });
+    }
   }
 
   return (
@@ -72,6 +83,7 @@ export default function InterestsPage() {
         </div>
         <Link
           href="/"
+          onClick={handleContinue}
           aria-disabled={selected.length < 3}
           className={
             selected.length >= 3
