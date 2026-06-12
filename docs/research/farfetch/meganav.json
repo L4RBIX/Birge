@@ -1,0 +1,1073 @@
+{
+ "Sale": {
+  "found": true,
+  "h": 493,
+  "cols": [
+   {
+    "heading": "20% off sale",
+    "links": [
+     {
+      "text": "All 20% off",
+      "href": "/kz/promotions/men/summer-promotion"
+     },
+     {
+      "text": "20% off clothing",
+      "href": "/kz/promotions/men/summer-promotion?&category=136330"
+     },
+     {
+      "text": "20% off sweaters",
+      "href": "/kz/promotions/men/summer-promotion?&category=136334"
+     },
+     {
+      "text": "20% off jackets",
+      "href": "/kz/promotions/men/summer-promotion?&category=136335"
+     },
+     {
+      "text": "20% off T-shirts",
+      "href": "/kz/promotions/men/summer-promotion?&category=136332"
+     },
+     {
+      "text": "20% off shoes",
+      "href": "/kz/promotions/men/summer-promotion?&category=135968"
+     },
+     {
+      "text": "20% off trainers",
+      "href": "/kz/promotions/men/summer-promotion?&category=137174"
+     },
+     {
+      "text": "20% off bags",
+      "href": "/kz/promotions/men/summer-promotion?&category=135970"
+     },
+     {
+      "text": "20% off accessories",
+      "href": "/kz/promotions/men/summer-promotion?&category=135972"
+     }
+    ]
+   },
+   {
+    "heading": "Sale",
+    "links": [
+     {
+      "text": "All sale",
+      "href": "/kz/shopping/men/sale/all/items.aspx"
+     },
+     {
+      "text": "Clothing",
+      "href": "/kz/shopping/men/sale/clothing-2/items.aspx"
+     },
+     {
+      "text": "Jackets",
+      "href": "/kz/shopping/men/sale/jackets-2/items.aspx"
+     },
+     {
+      "text": "Shirts",
+      "href": "/kz/shopping/men/sale/shirts-2/items.aspx"
+     },
+     {
+      "text": "Sweatshirts & knitwear",
+      "href": "/kz/shopping/men/sale/sweaters-knitwear-2/items.aspx"
+     },
+     {
+      "text": "T-shirts",
+      "href": "/kz/shopping/men/sale/t-shirts-vests-2/items.aspx"
+     },
+     {
+      "text": "Shoes",
+      "href": "/kz/shopping/men/sale/shoes-2/items.aspx"
+     },
+     {
+      "text": "Trainers",
+      "href": "/kz/shopping/men/sale/trainers-2/items.aspx"
+     },
+     {
+      "text": "Bags",
+      "href": "/kz/shopping/men/sale/bags-purses-2/items.aspx"
+     },
+     {
+      "text": "Accessories",
+      "href": "/kz/shopping/men/sale/accessories-all-2/items.aspx"
+     },
+     {
+      "text": "Previous Season",
+      "href": "/kz/shopping/men/sale/all/items.aspx?labels=16900"
+     }
+    ]
+   }
+  ],
+  "tiles": [
+   {
+    "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10693930/data/a745de3b3e5367e347273b64bb9795f0/4x3/960/wwmw-sale-60-x20.jpeg"
+   }
+  ],
+  "fullText": "20% OFF SALE\nAll 20% off\n20% off clothing\n20% off sweaters\n20% off jackets\n20% off T-shirts\n20% off shoes\n20% off trainers\n20% off bags\n20% off accessories\nSALE\nAll sale\nClothing\nJackets\nShirts\nSweatshirts & knitwear\nT-shirts\nShoes\nTrainers\nBags\nAccessories\nPrevious Season\n\nMen\n\nUP TO 60% OFF SALE, PLUS 20% OFF\n\nShop Now"
+ },
+ "New in": {
+  "found": true,
+  "h": 493,
+  "cols": [
+   {
+    "heading": "What's New",
+    "links": [
+     {
+      "text": "New in today",
+      "href": "/kz/sets/new-in-this-week-eu-men.aspx"
+     },
+     {
+      "text": "New clothing",
+      "href": "/kz/sets/men-new-in-clothing.aspx"
+     },
+     {
+      "text": "New shoes",
+      "href": "/kz/sets/men-new-in-shoes.aspx"
+     },
+     {
+      "text": "New bags & accessories",
+      "href": "/kz/sets/men-new-in-accessories.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Trending Now",
+    "links": [
+     {
+      "text": "Retro sportswear",
+      "href": "/kz/sets/trend-edit-four.aspx"
+     },
+     {
+      "text": "How to style stripes",
+      "href": "/kz/sets/men/stripes-for-men.aspx"
+     },
+     {
+      "text": "The new boho",
+      "href": "/kz/sets/men/boho-chic-for-him.aspx"
+     },
+     {
+      "text": "Event-dressing",
+      "href": "/kz/sets/men/wedding-guest-mens.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Discover",
+    "links": [
+     {
+      "text": "Most-wanted pieces",
+      "href": "/kz/sets/most-wanted-pieces.aspx"
+     },
+     {
+      "text": "Partywear",
+      "href": "/kz/sets/event-dressing-men.aspx"
+     },
+     {
+      "text": "The vacation edit",
+      "href": "/kz/sets/vacation-men.aspx"
+     },
+     {
+      "text": "Hype streetwear",
+      "href": "/kz/sets/men/street-wear-men.aspx"
+     },
+     {
+      "text": "Exclusives & collabs",
+      "href": "/kz/sets/exclusives-collaborations-men.aspx"
+     },
+     {
+      "text": "Best of the new season",
+      "href": "/kz/sets/new-season-men.aspx"
+     },
+     {
+      "text": "Fashion feed",
+      "href": "/kz/stories/fashion-feed"
+     }
+    ]
+   }
+  ],
+  "tiles": [
+   {
+    "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10695224/data/f0dbeaef26f34b7e537fb36da391670f/4x3/960/mw-08-06-most-wanted.jpeg"
+   }
+  ],
+  "fullText": "WHAT'S NEW\nNew in today\nNew clothing\nNew shoes\nNew bags & accessories\nTRENDING NOW\nRetro sportswear\nHow to style stripes\nThe new boho\nEvent-dressing\nDISCOVER\nMost-wanted pieces\nPartywear\nThe vacation edit\nHype streetwear\nExclusives & collabs\nBest of the new season\nFashion feed\n\nSpotlight on\n\nMOST-WANTED PIECES\n\nShop Now"
+ },
+ "Vacation": {
+  "found": true,
+  "h": 493,
+  "cols": [
+   {
+    "heading": "Vacation",
+    "links": [
+     {
+      "text": "The vacation edit",
+      "href": "/kz/sets/vacation-men.aspx"
+     },
+     {
+      "text": "Swimwear & beachwear",
+      "href": "/kz/sets/men/summer-swimwear.aspx"
+     },
+     {
+      "text": "Matching sets",
+      "href": "/kz/sets/men/new-season.aspx"
+     },
+     {
+      "text": "Linen staples",
+      "href": "/kz/sets/mw-linen.aspx"
+     },
+     {
+      "text": "The summer shirt edit",
+      "href": "/kz/sets/men/trend-shirt-edit.aspx"
+     },
+     {
+      "text": "Vacation nights",
+      "href": "/kz/sets/event-dressing-men.aspx"
+     },
+     {
+      "text": "How to style shorts",
+      "href": "/kz/sets/men/how-to-style-shorts-for-men.aspx"
+     },
+     {
+      "text": "Airport staples",
+      "href": "/kz/sets/men/airport-essentials.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Accessories",
+    "links": [
+     {
+      "text": "Vacation accessories",
+      "href": "/kz/sets/men-vacation-accessories.aspx"
+     },
+     {
+      "text": "Summer shoes",
+      "href": "/kz/sets/men/step-into-summer-men.aspx"
+     },
+     {
+      "text": "New sunglasses",
+      "href": "/kz/shopping/men/sunglasses-2/items.aspx"
+     },
+     {
+      "text": "Luggage & holdalls",
+      "href": "/kz/shopping/men/luggage-holdalls-2/items.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Brands",
+    "links": [
+     {
+      "text": "Versace",
+      "href": "/kz/shopping/men/versace/items.aspx"
+     },
+     {
+      "text": "Casablanca",
+      "href": "/kz/shopping/men/casablanca/items.aspx"
+     },
+     {
+      "text": "Jacquemus",
+      "href": "/kz/shopping/men/jacquemus/items.aspx"
+     },
+     {
+      "text": "Orlebar Brown",
+      "href": "/kz/shopping/men/orlebar-brown/items.aspx"
+     },
+     {
+      "text": "MC2 Saint Barth",
+      "href": "/kz/shopping/men/designer-mc2-saint-barth/items.aspx"
+     },
+     {
+      "text": "Frescobol Carioca",
+      "href": "/kz/shopping/men/frescobol-carioca/items.aspx"
+     },
+     {
+      "text": "Vilebrequin",
+      "href": "/kz/shopping/men/vilebrequin/items.aspx"
+     }
+    ]
+   }
+  ],
+  "tiles": [
+   {
+    "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10695244/data/0945e5f1fa4f93b3fe65a63bcf55dd1e/4x3/960/mw-08-06-event-dressing.jpeg"
+   }
+  ],
+  "fullText": "VACATION\nThe vacation edit\nSwimwear & beachwear\nMatching sets\nLinen staples\nThe summer shirt edit\nVacation nights\nHow to style shorts\nAirport staples\nACCESSORIES\nVacation accessories\nSummer shoes\nNew sunglasses\nLuggage & holdalls\nBRANDS\nVersace\nCasablanca\nJacquemus\nOrlebar Brown\nMC2 Saint Barth\nFrescobol Carioca\nVilebrequin\n\nSpotlight on\n\nEVENT DRESSING\n\nShop Now"
+ },
+ "Brands": {
+  "found": true,
+  "h": 493,
+  "cols": [
+   {
+    "heading": "Iconic Brands",
+    "links": [
+     {
+      "text": "View All",
+      "href": "/kz/designers/men"
+     },
+     {
+      "text": "Amiri",
+      "href": "/kz/shopping/men/amiri/items.aspx"
+     },
+     {
+      "text": "Brunello Cucinelli",
+      "href": "/kz/shopping/men/brunello-cucinelli/items.aspx"
+     },
+     {
+      "text": "Burberry",
+      "href": "/kz/shopping/men/burberry/items.aspx"
+     },
+     {
+      "text": "Dolce & Gabbana",
+      "href": "/kz/shopping/men/dolce-gabbana/items.aspx"
+     },
+     {
+      "text": "Maison Margiela",
+      "href": "/kz/shopping/men/maison-margiela/items.aspx"
+     },
+     {
+      "text": "Moncler",
+      "href": "/kz/shopping/men/moncler/items.aspx"
+     },
+     {
+      "text": "Off-White",
+      "href": "/kz/shopping/men/off-white/items.aspx"
+     },
+     {
+      "text": "Polo Ralph Lauren",
+      "href": "/kz/shopping/men/polo-ralph-lauren/items.aspx"
+     },
+     {
+      "text": "Prada",
+      "href": "/kz/shopping/men/prada/items.aspx"
+     },
+     {
+      "text": "Tom Ford",
+      "href": "/kz/shopping/men/tom-ford/items.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Contemporary brands",
+    "links": [
+     {
+      "text": "Carhartt WIP",
+      "href": "/kz/shopping/men/carhartt-wip/items.aspx"
+     },
+     {
+      "text": "Chrome Hearts",
+      "href": "/kz/shopping/men/chrome-hearts/items.aspx"
+     },
+     {
+      "text": "Fear of God essentials",
+      "href": "/kz/shopping/men/essentials/items.aspx"
+     },
+     {
+      "text": "Lemaire",
+      "href": "/kz/shopping/men/lemaire/items.aspx"
+     },
+     {
+      "text": "Our Legacy",
+      "href": "/kz/shopping/men/our-legacy/items.aspx"
+     },
+     {
+      "text": "Stone island",
+      "href": "/kz/shopping/men/stone-island/items.aspx"
+     },
+     {
+      "text": "Represent",
+      "href": "/kz/shopping/men/represent/items.aspx"
+     },
+     {
+      "text": "Rhude",
+      "href": "/kz/shopping/men/rhude/items.aspx"
+     },
+     {
+      "text": "Visvim",
+      "href": "/kz/shopping/men/visvim/items.aspx"
+     }
+    ]
+   }
+  ],
+  "tiles": [
+   {
+    "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10695240/data/643bfff6b8800552516aa61d031a6274/4x3/960/mw-08-06-casablanca.jpeg"
+   }
+  ],
+  "fullText": "ICONIC BRANDS\nView All\nAmiri\nBrunello Cucinelli\nBurberry\nDolce & Gabbana\nMaison Margiela\nMoncler\nOff-White\nPolo Ralph Lauren\nPrada\nTom Ford\nCONTEMPORARY BRANDS\nCarhartt WIP\nChrome Hearts\nFear of God essentials\nLemaire\nOur Legacy\nStone island\nRepresent\nRhude\nVisvim\n\nSpotlight on\n\nCASABLANCA\n\nShop Now"
+ },
+ "Clothing": {
+  "found": true,
+  "h": 526,
+  "cols": [
+   {
+    "heading": "Clothing",
+    "links": [
+     {
+      "text": "All clothing",
+      "href": "/kz/shopping/men/clothing-2/items.aspx"
+     },
+     {
+      "text": "T-shirts & vests",
+      "href": "/kz/shopping/men/t-shirts-vests-2/items.aspx"
+     },
+     {
+      "text": "Jackets",
+      "href": "/kz/shopping/men/jackets-2/items.aspx"
+     },
+     {
+      "text": "Sweaters & knitwear",
+      "href": "/kz/shopping/men/sweaters-knitwear-2/items.aspx"
+     },
+     {
+      "text": "Shirts",
+      "href": "/kz/shopping/men/shirts-2/items.aspx"
+     },
+     {
+      "text": "Polo shirts",
+      "href": "/kz/shopping/men/polo-shirts-2/items.aspx"
+     },
+     {
+      "text": "Denim",
+      "href": "/kz/shopping/men/denim-2/items.aspx"
+     },
+     {
+      "text": "Trousers",
+      "href": "/kz/shopping/men/trousers-2/items.aspx"
+     },
+     {
+      "text": "Swimwear & beachwear",
+      "href": "/kz/shopping/men/beachwear-2/items.aspx"
+     },
+     {
+      "text": "Shorts",
+      "href": "/kz/shopping/men/shorts-2/items.aspx"
+     },
+     {
+      "text": "Coats",
+      "href": "/kz/shopping/men/coats-2/items.aspx"
+     },
+     {
+      "text": "Suits",
+      "href": "/kz/shopping/men/suits-2/items.aspx"
+     },
+     {
+      "text": "Underwear & socks",
+      "href": "/kz/shopping/men/underwear-socks-2/items.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Discover",
+    "links": [
+     {
+      "text": "New clothing",
+      "href": "/kz/sets/men-new-in-clothing.aspx"
+     },
+     {
+      "text": "Retro sportswear",
+      "href": "/kz/sets/trend-edit-four.aspx"
+     },
+     {
+      "text": "Partywear",
+      "href": "/kz/sets/event-dressing-men.aspx"
+     },
+     {
+      "text": "The vacation edit",
+      "href": "/kz/sets/vacation-men.aspx"
+     },
+     {
+      "text": "Hype streetwear",
+      "href": "/kz/sets/men/street-wear-men.aspx"
+     },
+     {
+      "text": "How to style stripes",
+      "href": "/kz/sets/men/stripes-for-men.aspx"
+     },
+     {
+      "text": "New-season co-ords",
+      "href": "/kz/sets/men/new-season.aspx"
+     }
+    ]
+   }
+  ],
+  "tiles": [
+   {
+    "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10681080/data/2bf3e9a55b74fb82ed9caa39a87df2f5/4x3/960/mw-26-05-how-to-style-shorts.jpeg"
+   }
+  ],
+  "fullText": "CLOTHING\nAll clothing\nT-shirts & vests\nJackets\nSweaters & knitwear\nShirts\nPolo shirts\nDenim\nTrousers\nSwimwear & beachwear\nShorts\nCoats\nSuits\nUnderwear & socks\nDISCOVER\nNew clothing\nRetro sportswear\nPartywear\nThe vacation edit\nHype streetwear\nHow to style stripes\nNew-season co-ords\n\nSpotlight on\n\nHOW TO STYLE SHORTS\n\nShop Now"
+ },
+ "Shoes": {
+  "found": true,
+  "h": 493,
+  "cols": [
+   {
+    "heading": "Shoes",
+    "links": [
+     {
+      "text": "All shoes",
+      "href": "/kz/shopping/men/shoes-2/items.aspx"
+     },
+     {
+      "text": "Trainers",
+      "href": "/kz/shopping/men/trainers-2/items.aspx"
+     },
+     {
+      "text": "Boots",
+      "href": "/kz/shopping/men/boots-2/items.aspx"
+     },
+     {
+      "text": "Loafers",
+      "href": "/kz/shopping/men/loafers-2/items.aspx"
+     },
+     {
+      "text": "Derby & Oxford shoes",
+      "href": "/kz/shopping/men/derby-oxford-shoes-2/items.aspx"
+     },
+     {
+      "text": "Slippers",
+      "href": "/kz/shopping/men/shoes-2/items.aspx?category=135996"
+     },
+     {
+      "text": "Flip flops & Slides",
+      "href": "/kz/shopping/men/flip-flops-slides-2/items.aspx"
+     },
+     {
+      "text": "Sandals",
+      "href": "/kz/shopping/men/sandals-2/items.aspx"
+     },
+     {
+      "text": "Monk shoes",
+      "href": "/kz/shopping/men/buckled-shoes-2/items.aspx"
+     },
+     {
+      "text": "Mules",
+      "href": "/kz/shopping/men/shoes-2/items.aspx?category=198967"
+     },
+     {
+      "text": "Espadrilles",
+      "href": "/kz/shopping/men/espadrilles-2/items.aspx"
+     },
+     {
+      "text": "Boat shoes",
+      "href": "/kz/shopping/men/shoes-2/items.aspx?category=136355"
+     }
+    ]
+   },
+   {
+    "heading": "Discover",
+    "links": [
+     {
+      "text": "New shoes",
+      "href": "/kz/sets/men-new-in-shoes.aspx"
+     },
+     {
+      "text": "Most wanted trainers",
+      "href": "/kz/sets/men/most-wanted-sneakers.aspx"
+     },
+     {
+      "text": "Party shoes",
+      "href": "/kz/sets/men/party-shoes-mens.aspx"
+     },
+     {
+      "text": "Exclusives & collabs",
+      "href": "/kz/sets/men/sneakers-exclusives-and-collaborations.aspx"
+     },
+     {
+      "text": "Summer shoes",
+      "href": "/kz/sets/men/step-into-summer-men.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Iconic Collections",
+    "links": [
+     {
+      "text": "Zegna Triple Stitch",
+      "href": "/kz/sets/mw-iconic-sneakers-zegna-triple-stitch.aspx"
+     },
+     {
+      "text": "New Balance 9060",
+      "href": "/kz/sets/new-balance-9060.aspx"
+     },
+     {
+      "text": "Maison Margiela Replica",
+      "href": "/kz/sets/maison-margiela-replica-trainers.aspx"
+     },
+     {
+      "text": "Golden Goose Ball Star",
+      "href": "/kz/sets/golden-goose-ball-star-for-men.aspx"
+     },
+     {
+      "text": "On Cloudtilt",
+      "href": "/kz/sets/on-cloudtilt.aspx"
+     },
+     {
+      "text": "Salomon XT-6",
+      "href": "/kz/sets/salomon-xt-6.aspx"
+     },
+     {
+      "text": "Jordan x Travis Scott",
+      "href": "/kz/sets/nike-x-travis-scott.aspx?sort=2"
+     },
+     {
+      "text": "Maison Mihara Yasuhiro Peterson",
+      "href": "/kz/sets/maison-mihara-yasuhiro-peterson.aspx"
+     },
+     {
+      "text": "Rick Owens vintage",
+      "href": "/kz/sets/rick-owens-vintage.aspx"
+     },
+     {
+      "text": "adidas x Bad Bunny",
+      "href": "/kz/sets/bad-bunny-x-adidas.aspx"
+     }
+    ]
+   }
+  ],
+  "tiles": [
+   {
+    "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10683776/data/81c09ccc21b8779355cb68b80af94539/4x3/960/mw-02-06-summer-shoes.jpeg"
+   }
+  ],
+  "fullText": "SHOES\nAll shoes\nTrainers\nBoots\nLoafers\nDerby & Oxford shoes\nSlippers\nFlip flops & Slides\nSandals\nMonk shoes\nMules\nEspadrilles\nBoat shoes\nDISCOVER\nNew shoes\nMost wanted trainers\nParty shoes\nExclusives & collabs\nSummer shoes\nICONIC COLLECTIONS\nZegna Triple Stitch\nNew Balance 9060\nMaison Margiela Replica\nGolden Goose Ball Star\nOn Cloudtilt\nSalomon XT-6\nJordan x Travis Scott\nMaison Mihara Yasuhiro Peterson\nRick Owens vintage\nadidas x Bad Bunny\n\nSpotlight on\n\nSUMMER SHOES\n\nShop Now"
+ },
+ "Bags": {
+  "found": true,
+  "h": 493,
+  "cols": [
+   {
+    "heading": "Bags",
+    "links": [
+     {
+      "text": "All bags",
+      "href": "/kz/shopping/men/bags-purses-2/items.aspx"
+     },
+     {
+      "text": "Shoulder bags",
+      "href": "/kz/shopping/men/shoulder-bags-2/items.aspx"
+     },
+     {
+      "text": "Backpacks",
+      "href": "/kz/shopping/men/backpacks-2/items.aspx"
+     },
+     {
+      "text": "Messenger bags",
+      "href": "/kz/shopping/men/messengers-2/items.aspx"
+     },
+     {
+      "text": "Tote bags",
+      "href": "/kz/shopping/men/totes-2/items.aspx"
+     },
+     {
+      "text": "Luggage & holdalls",
+      "href": "/kz/shopping/men/luggage-holdalls-2/items.aspx"
+     },
+     {
+      "text": "Clutch bags",
+      "href": "/kz/shopping/men/clutches-2/items.aspx"
+     },
+     {
+      "text": "Belt bags",
+      "href": "/kz/shopping/men/belt-bags-2/items.aspx"
+     },
+     {
+      "text": "Laptop bags & briefcases",
+      "href": "/kz/shopping/men/laptop-briefcases-2/items.aspx"
+     },
+     {
+      "text": "Beach bags",
+      "href": "/kz/shopping/women/bags-purses-1/items.aspx?category=136297"
+     }
+    ]
+   },
+   {
+    "heading": "Discover",
+    "links": [
+     {
+      "text": "New bags & accessories",
+      "href": "/kz/sets/men-new-in-accessories.aspx"
+     },
+     {
+      "text": "Pre-owned bags",
+      "href": "/kz/shopping/men/pre-owned-bags-2/items.aspx"
+     }
+    ]
+   }
+  ],
+  "tiles": [
+   {
+    "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10695238/data/5465930f8dfddcd7e847a782d0046f63/4x3/960/mw-08-06-backpacks.jpeg"
+   }
+  ],
+  "fullText": "BAGS\nAll bags\nShoulder bags\nBackpacks\nMessenger bags\nTote bags\nLuggage & holdalls\nClutch bags\nBelt bags\nLaptop bags & briefcases\nBeach bags\nDISCOVER\nNew bags & accessories\nPre-owned bags\n\nSpotlight on\n\nBACKPACKS\n\nShop Now"
+ },
+ "Accessories": {
+  "found": true,
+  "h": 493,
+  "cols": [
+   {
+    "heading": "Accessories",
+    "links": [
+     {
+      "text": "All accessories",
+      "href": "/kz/shopping/men/accessories-all-2/items.aspx"
+     },
+     {
+      "text": "Sunglasses",
+      "href": "/kz/shopping/men/sunglasses-2/items.aspx"
+     },
+     {
+      "text": "Hats",
+      "href": "/kz/shopping/men/hats-2/items.aspx"
+     },
+     {
+      "text": "Belts",
+      "href": "/kz/shopping/men/belts-2/items.aspx"
+     },
+     {
+      "text": "Wallets & cardholders",
+      "href": "/kz/shopping/men/wallets-cardholders-2/items.aspx"
+     },
+     {
+      "text": "Glasses & frames",
+      "href": "/kz/shopping/men/accessories-all-2/items.aspx?category=136371"
+     },
+     {
+      "text": "Scarves",
+      "href": "/kz/shopping/men/scarves-2/items.aspx"
+     },
+     {
+      "text": "Ties & bow ties",
+      "href": "/kz/shopping/men/ties-2/items.aspx"
+     },
+     {
+      "text": "Keyrings & chains",
+      "href": "/kz/shopping/men/accessories-all-2/items.aspx?category=136010"
+     },
+     {
+      "text": "Gloves",
+      "href": "/kz/shopping/men/gloves-2/items.aspx"
+     },
+     {
+      "text": "Phone, computer & gadgets",
+      "href": "/kz/shopping/men/accessories-all-2/items.aspx?category=136377"
+     },
+     {
+      "text": "Cufflinks",
+      "href": "/kz/shopping/men/accessories-all-2/items.aspx?category=136483"
+     }
+    ]
+   },
+   {
+    "heading": "Jewellery",
+    "links": [
+     {
+      "text": "All jewellery",
+      "href": "/kz/shopping/men/jewellery-2/items.aspx"
+     },
+     {
+      "text": "All fine jewellery",
+      "href": "/kz/shopping/men/jewellery-2/items.aspx?view=180&category=136639%7C136635%7C136636%7C136638"
+     },
+     {
+      "text": "Bracelets",
+      "href": "/kz/shopping/men/bracelets-2/items.aspx"
+     },
+     {
+      "text": "Necklaces",
+      "href": "/kz/shopping/men/necklaces-2/items.aspx"
+     },
+     {
+      "text": "Rings",
+      "href": "/kz/shopping/men/rings-2/items.aspx"
+     },
+     {
+      "text": "Earrings",
+      "href": "/kz/shopping/men/earrings-2/items.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Discover",
+    "links": [
+     {
+      "text": "New accessories & bags",
+      "href": "/kz/sets/men-new-in-accessories.aspx"
+     },
+     {
+      "text": "Gifts",
+      "href": "/kz/sets/men/menswear-gift-list.aspx"
+     },
+     {
+      "text": "Vacation accessories",
+      "href": "/kz/sets/men-vacation-accessories.aspx"
+     },
+     {
+      "text": "Pre-owned accessories",
+      "href": "/kz/shopping/men/pre-owned-accessories-2/items.aspx"
+     }
+    ]
+   }
+  ],
+  "tiles": [
+   {
+    "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10683814/data/27686f69a7250c1b090f8cb4fc45b452/4x3/960/mw-02-06-sunglasses.jpeg"
+   }
+  ],
+  "fullText": "ACCESSORIES\nAll accessories\nSunglasses\nHats\nBelts\nWallets & cardholders\nGlasses & frames\nScarves\nTies & bow ties\nKeyrings & chains\nGloves\nPhone, computer & gadgets\nCufflinks\nJEWELLERY\nAll jewellery\nAll fine jewellery\nBracelets\nNecklaces\nRings\nEarrings\nDISCOVER\nNew accessories & bags\nGifts\nVacation accessories\nPre-owned accessories\n\nSpotlight on\n\nSUNGLASSES\n\nShop Now"
+ },
+ "Watches": {
+  "found": true,
+  "h": 493,
+  "cols": [
+   {
+    "heading": "Watches",
+    "links": [
+     {
+      "text": "All watches",
+      "href": "/kz/shopping/men/watches-4/items.aspx"
+     },
+     {
+      "text": "New in watches",
+      "href": "/kz/sets/new-in-watches-for-men.aspx"
+     },
+     {
+      "text": "Contemporary watches",
+      "href": "/kz/shopping/men/contemporary-watches-2/items.aspx"
+     },
+     {
+      "text": "Fashion watches",
+      "href": "/kz/shopping/men/watches-analog-2/items.aspx"
+     },
+     {
+      "text": "Watches accessories",
+      "href": "/kz/shopping/men/watch-accessories-2/items.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Fine Watches",
+    "links": [
+     {
+      "text": "All fine watches",
+      "href": "/kz/shopping/men/fine-watches-4/items.aspx"
+     },
+     {
+      "text": "Aviator watches",
+      "href": "/kz/shopping/men/fine-watches-aviator-2/items.aspx"
+     },
+     {
+      "text": "Chronograph watches",
+      "href": "/kz/shopping/men/fine-watches-chronograph-2/items.aspx"
+     },
+     {
+      "text": "Dress watches",
+      "href": "/kz/shopping/men/fine-watches-dress-2/items.aspx"
+     },
+     {
+      "text": "Sports watches",
+      "href": "/kz/shopping/men/fine-watches-sports-2/items.aspx"
+     },
+     {
+      "text": "Pre-owned fine watches",
+      "href": "/kz/shopping/men/pre-owned-fine-watches-2/items.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Featured Brands",
+    "links": [
+     {
+      "text": "Audemars Piguet",
+      "href": "/kz/shopping/men/audemars-piguet/items.aspx"
+     },
+     {
+      "text": "Bell & Ross",
+      "href": "/kz/shopping/men/bell-ross/fine-watches-4/items.aspx"
+     },
+     {
+      "text": "Breitling",
+      "href": "/kz/shopping/men/breitling/items.aspx"
+     },
+     {
+      "text": "Chopard",
+      "href": "/kz/shopping/men/chopard/items.aspx"
+     },
+     {
+      "text": "Designa Individual",
+      "href": "/kz/shopping/men/designer-designa-individual/items.aspx"
+     },
+     {
+      "text": "Frederique Constant",
+      "href": "/kz/shopping/men/frederique-constant/items.aspx"
+     },
+     {
+      "text": "Hublot",
+      "href": "/kz/shopping/men/hublot/items.aspx"
+     },
+     {
+      "text": "Omega",
+      "href": "/kz/shopping/men/designer-omega-pre-owned/items.aspx"
+     },
+     {
+      "text": "Patek Philippe",
+      "href": "/kz/shopping/men/patek-philippe/items.aspx"
+     },
+     {
+      "text": "Rolex",
+      "href": "/kz/shopping/men/rolex-pre-owned/items.aspx"
+     },
+     {
+      "text": "Tag-Heuer",
+      "href": "/kz/shopping/men/designer-tag-heuer/items.aspx"
+     },
+     {
+      "text": "Tudor",
+      "href": "/kz/shopping/men/tudor/items.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Discover",
+    "links": [
+     {
+      "text": "Customised watches",
+      "href": "/kz/sets/men/most-wanted-watches.aspx"
+     },
+     {
+      "text": "Pre-order watches",
+      "href": "/kz/tag/men/pre-order?view=90&rootCategory=Men&category=137177"
+     },
+     {
+      "text": "Collectors' timepieces",
+      "href": "/kz/sets/men/trend-watches-investment-pieces.aspx"
+     }
+    ]
+   }
+  ],
+  "tiles": [
+   {
+    "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10695242/data/d9c6f6923a2e1e830ff728271bfb047a/4x3/960/mw-08-06-watches-1-.jpeg"
+   }
+  ],
+  "fullText": "WATCHES\nAll watches\nNew in watches\nContemporary watches\nFashion watches\nWatches accessories\nFINE WATCHES\nAll fine watches\nAviator watches\nChronograph watches\nDress watches\nSports watches\nPre-owned fine watches\nFEATURED BRANDS\nAudemars Piguet\nBell & Ross\nBreitling\nChopard\nDesigna Individual\nFrederique Constant\nHublot\nOmega\nPatek Philippe\nRolex\nTag-Heuer\nTudor\nDISCOVER\nCustomised watches\nPre-order watches\nCollectors' timepieces\n\nSpotlight on\n\nNEW WATCHES\n\nShop Now"
+ },
+ "Lifestyle": {
+  "found": true,
+  "h": 493,
+  "cols": [
+   {
+    "heading": "Homeware",
+    "links": [
+     {
+      "text": "All homeware",
+      "href": "/kz/shopping/men/lifestyle-2/items.aspx"
+     },
+     {
+      "text": "New homeware",
+      "href": "/kz/sets/new-homeware.aspx"
+     },
+     {
+      "text": "Home decor",
+      "href": "/kz/shopping/men/home-decor-2/items.aspx"
+     },
+     {
+      "text": "Soft furnishings & textiles",
+      "href": "/kz/shopping/men/soft-furninshing-textiles-2/items.aspx"
+     },
+     {
+      "text": "Dining & kitchen",
+      "href": "/kz/shopping/men/dining-kitchen-2/items.aspx"
+     },
+     {
+      "text": "Candles & home fragrance",
+      "href": "/kz/shopping/men/candles-home-fragrance-2/items.aspx"
+     },
+     {
+      "text": "Stationery",
+      "href": "/kz/shopping/men/stationery-2/items.aspx"
+     },
+     {
+      "text": "Collectibles",
+      "href": "/kz/shopping/men/collectibles-2/items.aspx"
+     },
+     {
+      "text": "Furniture",
+      "href": "/kz/shopping/men/furniture-2/items.aspx"
+     },
+     {
+      "text": "Audio & tech accessories",
+      "href": "/kz/shopping/men/audio-tech-accessories-2/items.aspx"
+     },
+     {
+      "text": "Pet accessories",
+      "href": "/kz/shopping/men/pet-accessories-2/items.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Sports",
+    "links": [
+     {
+      "text": "All activewear",
+      "href": "/kz/shopping/men/activewear-2/items.aspx"
+     },
+     {
+      "text": "Skiwear",
+      "href": "/kz/shopping/men/skiwear-2/items.aspx"
+     },
+     {
+      "text": "Shoes",
+      "href": "/kz/shopping/men/performance-footwear-2/items.aspx"
+     },
+     {
+      "text": "Jackets",
+      "href": "/kz/shopping/men/performance-jackets-2/items.aspx"
+     },
+     {
+      "text": "Trousers",
+      "href": "/kz/shopping/men/sport-trousers-2/items.aspx"
+     },
+     {
+      "text": "Shorts",
+      "href": "/kz/shopping/men/performance-shorts-2/items.aspx"
+     },
+     {
+      "text": "Accessories",
+      "href": "/kz/shopping/men/activewear-accessories-2/items.aspx"
+     },
+     {
+      "text": "Tops",
+      "href": "/kz/shopping/men/sport-tops-2/items.aspx"
+     }
+    ]
+   },
+   {
+    "heading": "Travel",
+    "links": [
+     {
+      "text": "Airport staples",
+      "href": "/kz/sets/men/airport-essentials.aspx"
+     },
+     {
+      "text": "Luggage & holdalls",
+      "href": "/kz/shopping/men/luggage-holdalls-2/items.aspx"
+     },
+     {
+      "text": "Travel accessories",
+      "href": "/kz/shopping/men/travel-2/items.aspx"
+     },
+     {
+      "text": "The vacation edit",
+      "href": "/kz/sets/vacation-men.aspx"
+     }
+    ]
+   }
+  ],
+  "tiles": [
+   {
+    "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10681084/data/6c4424443ff74e2ad594a257260a710b/4x3/960/mw-26-05-new-homeware.jpeg"
+   }
+  ],
+  "fullText": "HOMEWARE\nAll homeware\nNew homeware\nHome decor\nSoft furnishings & textiles\nDining & kitchen\nCandles & home fragrance\nStationery\nCollectibles\nFurniture\nAudio & tech accessories\nPet accessories\nSPORTS\nAll activewear\nSkiwear\nShoes\nJackets\nTrousers\nShorts\nAccessories\nTops\nTRAVEL\nAirport staples\nLuggage & holdalls\nTravel accessories\nThe vacation edit\n\nSpotlight on\n\nNEW HOMEWARE\n\nShop Now"
+ }
+}

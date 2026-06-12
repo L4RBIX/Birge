@@ -1,0 +1,670 @@
+{
+ "bannerStrip": [
+  {
+   "text": "Enjoy up to 60% off sale, plus 20% off",
+   "href": "https://www.farfetch.com/promotions/men/summer-promotion",
+   "bg": "rgb(34, 34, 34)",
+   "color": "rgb(255, 255, 255)",
+   "fontSize": "13px",
+   "textAlign": "center",
+   "opacity": "1"
+  },
+  {
+   "text": "Download the app to get 10% off your first app order",
+   "href": "/promotion-terms-and-conditions/",
+   "bg": "rgb(34, 34, 34)",
+   "color": "rgb(255, 255, 255)",
+   "fontSize": "13px",
+   "textAlign": "center",
+   "opacity": "0"
+  },
+  {
+   "text": "Shop the SS26 sale : up to 60% off",
+   "href": "https://www.farfetch.com/shopping/men/sale/all/items.aspx",
+   "bg": "rgb(34, 34, 34)",
+   "color": "rgb(255, 255, 255)",
+   "fontSize": "13px",
+   "textAlign": "center",
+   "opacity": "0"
+  }
+ ],
+ "hero": {
+  "title": "Whatever the occasion",
+  "titleStyles": {
+   "fontSize": "38px",
+   "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+   "fontWeight": "400",
+   "lineHeight": "48.0016px",
+   "letterSpacing": "normal",
+   "color": "rgb(34, 34, 34)",
+   "textAlign": "center"
+  },
+  "body": "For summer weddings, garden parties and everything in-between, decode the dress code with AMI Paris, Tom Ford and more",
+  "bodyStyles": {
+   "fontSize": "20px",
+   "lineHeight": "24px",
+   "color": "rgb(34, 34, 34)",
+   "textAlign": "center",
+   "maxWidth": "none"
+  },
+  "ctaLabel": "Shop Now",
+  "ctaHref": "/sets/men/wedding-guest-mens.aspx",
+  "ctaStyles": {
+   "fontSize": "15px",
+   "fontWeight": "700",
+   "color": "rgb(34, 34, 34)",
+   "backgroundColor": "rgb(255, 255, 255)",
+   "paddingTop": "10px",
+   "paddingRight": "16px",
+   "paddingBottom": "10px",
+   "paddingLeft": "16px",
+   "height": "44px",
+   "minWidth": "44px",
+   "display": "flex",
+   "alignItems": "center",
+   "justifyContent": "center",
+   "border": "1px solid rgb(34, 34, 34)"
+  },
+  "img": {
+   "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689974/data/9ad0aa63fe62e78615810c069fdec03a/3x4_messaging-side/936/2026-06-08-mw-webapp-nh-summer-events-vacation-multibrand-multicategory-img.jpeg",
+   "w": 936,
+   "h": 1248
+  },
+  "imgBoxStyles": {
+   "width": "684px",
+   "height": "912px",
+   "objectFit": "cover",
+   "aspectRatio": "auto"
+  },
+  "sectionH": 1008,
+  "textColLeft": {
+   "x": 72,
+   "w": 588
+  },
+  "bg": "rgba(0, 0, 0, 0)"
+ },
+ "rails": [
+  {
+   "heading": "New in: handpicked daily from the world’s best brands and boutiques",
+   "headingStyles": {
+    "fontSize": "22px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+    "textAlign": "start",
+    "color": "rgb(34, 34, 34)"
+   },
+   "ctaLabel": "Shop Now",
+   "ctaHref": "/kz/sets/new-in-this-week-eu-men.aspx",
+   "products": [
+    {
+     "href": "/kz/shopping/men/versace-striped-cotton-jersey-t-shirt-item-36281346.aspx",
+     "img": {
+      "src": "https://cdn-images.farfetch-contents.com/36/28/13/46/36281346_68487648_600.jpg",
+      "srcset": "https://cdn-images.farfetch-contents.com/36/28/13/46/36281346_68487648_600.jpg 600w, https://cdn-images.farfetch-contents.com/36/28/13/46/36281346_68487648_480.jpg 480w"
+     },
+     "texts": [
+      {
+       "t": "New Season",
+       "fs": "13px",
+       "fw": "400",
+       "color": "rgb(114, 114, 114)",
+       "td": "none"
+      },
+      {
+       "t": "Versace",
+       "fs": "15px",
+       "fw": "700",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      },
+      {
+       "t": "striped cotton-jersey T-shirt",
+       "fs": "13px",
+       "fw": "400",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      },
+      {
+       "t": "$847",
+       "fs": "15px",
+       "fw": "700",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      }
+     ],
+     "spans": [],
+     "ariaLabel": null
+    },
+    {
+     "href": "/kz/shopping/men/givenchy-tapered-baggy-jeans-item-34076877.aspx",
+     "img": {
+      "src": "https://cdn-images.farfetch-contents.com/34/07/68/77/34076877_68955679_600.jpg",
+      "srcset": "https://cdn-images.farfetch-contents.com/34/07/68/77/34076877_68955679_600.jpg 600w, https://cdn-images.farfetch-contents.com/34/07/68/77/34076877_68955679_480.jpg 480w"
+     },
+     "texts": [
+      {
+       "t": "New Season",
+       "fs": "13px",
+       "fw": "400",
+       "color": "rgb(114, 114, 114)",
+       "td": "none"
+      },
+      {
+       "t": "Givenchy",
+       "fs": "15px",
+       "fw": "700",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      },
+      {
+       "t": "tapered baggy jeans",
+       "fs": "13px",
+       "fw": "400",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      },
+      {
+       "t": "$1,323",
+       "fs": "15px",
+       "fw": "700",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      }
+     ],
+     "spans": [],
+     "ariaLabel": null
+    },
+    {
+     "href": "/kz/shopping/men/kenzo-logo-embroidered-baseball-cap-item-36746000.aspx",
+     "img": {
+      "src": "https://cdn-images.farfetch-contents.com/36/74/60/00/36746000_68904702_600.jpg",
+      "srcset": "https://cdn-images.farfetch-contents.com/36/74/60/00/36746000_68904702_600.jpg 600w, https://cdn-images.farfetch-contents.com/36/74/60/00/36746000_68904702_480.jpg 480w"
+     },
+     "texts": [
+      {
+       "t": "New Season",
+       "fs": "13px",
+       "fw": "400",
+       "color": "rgb(114, 114, 114)",
+       "td": "none"
+      },
+      {
+       "t": "Kenzo",
+       "fs": "15px",
+       "fw": "700",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      },
+      {
+       "t": "logo-embroidered baseball cap",
+       "fs": "13px",
+       "fw": "400",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      },
+      {
+       "t": "$139",
+       "fs": "15px",
+       "fw": "700",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      }
+     ],
+     "spans": [],
+     "ariaLabel": null
+    },
+    {
+     "href": "/kz/shopping/men/nn07-ben-check-pattern-shirt-item-33791811.aspx",
+     "img": {
+      "src": "https://cdn-images.farfetch-contents.com/33/79/18/11/33791811_68950015_600.jpg",
+      "srcset": "https://cdn-images.farfetch-contents.com/33/79/18/11/33791811_68950015_600.jpg 600w, https://cdn-images.farfetch-contents.com/33/79/18/11/33791811_68950015_480.jpg 480w"
+     },
+     "texts": [
+      {
+       "t": "New Season",
+       "fs": "13px",
+       "fw": "400",
+       "color": "rgb(114, 114, 114)",
+       "td": "none"
+      },
+      {
+       "t": "NN07",
+       "fs": "15px",
+       "fw": "700",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      },
+      {
+       "t": "Ben check-pattern shirt",
+       "fs": "13px",
+       "fw": "400",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      },
+      {
+       "t": "$214",
+       "fs": "15px",
+       "fw": "700",
+       "color": "rgb(34, 34, 34)",
+       "td": "none"
+      }
+     ],
+     "spans": [],
+     "ariaLabel": null
+    }
+   ]
+  }
+ ],
+ "brands": {
+  "heading": "Brands of the moment",
+  "tiles": [
+   {
+    "label": "Lardini",
+    "href": "/shopping/men/lardini/items.aspx",
+    "labelStyles": {
+     "fontSize": "30px",
+     "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "left",
+     "position": "static"
+    }
+   },
+   {
+    "label": "Boggi Milano",
+    "href": "/shopping/men/designer-boggi-milano/items.aspx",
+    "labelStyles": {
+     "fontSize": "30px",
+     "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "left",
+     "position": "static"
+    }
+   },
+   {
+    "label": "Manière De Voir",
+    "href": "/shopping/men/designer-maniere-de-voir/items.aspx",
+    "labelStyles": {
+     "fontSize": "30px",
+     "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+     "color": "rgb(255, 255, 255)",
+     "textAlign": "left",
+     "position": "static"
+    }
+   }
+  ]
+ },
+ "trending": {
+  "heading": "Trending now",
+  "headingStyles": {
+   "fontSize": "22px",
+   "fontWeight": "400",
+   "textAlign": "center"
+  },
+  "tiles": [
+   {
+    "label": "SPOTLIGHT ON CASABLANCA",
+    "href": "/kz/shopping/men/casablanca/items.aspx",
+    "img": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682176/data/f883fbd190693fed08b5ea7c834fcb76/3x4_four-columns/480/2026-05-25-mw-webapp-casablanca-vacation-casablanca-multicategory-img.jpeg",
+    "labelStyles": {
+     "fontSize": "15px",
+     "fontWeight": "400",
+     "textTransform": "uppercase",
+     "textDecoration": "none",
+     "letterSpacing": "normal"
+    }
+   },
+   {
+    "label": "THE JACKET UPDATE",
+    "href": "/kz/shopping/men/jackets-2/items.aspx",
+    "img": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682326/data/e4e5215d116f5e5ea7400e436a0d224f/3x4_four-columns/480/2026-05-25-mw-webapp-jackets-vacation-multibrand-jackets-img.jpeg",
+    "labelStyles": {
+     "fontSize": "15px",
+     "fontWeight": "400",
+     "textTransform": "uppercase",
+     "textDecoration": "none",
+     "letterSpacing": "normal"
+    }
+   },
+   {
+    "label": "AIRPORT STAPLES",
+    "href": "/kz/sets/men/airport-essentials.aspx",
+    "img": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682258/data/ceacf3ffd70280b202c4e60a3e526819/3x4_four-columns/480/2026-05-25-mw-webapp-luggage-holdalls-vacation-multibrand-multicategory-img.jpeg",
+    "labelStyles": {
+     "fontSize": "15px",
+     "fontWeight": "400",
+     "textTransform": "uppercase",
+     "textDecoration": "none",
+     "letterSpacing": "normal"
+    }
+   },
+   {
+    "label": "HOW TO STYLE SHORTS",
+    "href": "/kz/sets/men/how-to-style-shorts-for-men.aspx",
+    "img": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682290/data/eb59c81b18108a96ccd54a4d34479172/3x4_four-columns/480/2026-05-25-mw-webapp-shorts-vacation-multibrand-shorts-img.jpeg",
+    "labelStyles": {
+     "fontSize": "15px",
+     "fontWeight": "400",
+     "textTransform": "uppercase",
+     "textDecoration": "none",
+     "letterSpacing": "normal"
+    }
+   }
+  ]
+ },
+ "helpBar": [
+  {
+   "tag": "a",
+   "href": "/kz/how-to-shop",
+   "title": "HOW TO SHOP",
+   "body": ""
+  },
+  {
+   "tag": "a",
+   "href": "/kz/faqs",
+   "title": "FAQS",
+   "body": ""
+  },
+  {
+   "tag": "a",
+   "href": "/kz/contact-us",
+   "title": "NEED HELP?",
+   "body": ""
+  }
+ ],
+ "footer": {
+  "columns": [
+   {
+    "heading": "'FARFETCH' and the 'FARFETCH' logo are trade marks of FARFETCH UK Limited and are registered in numerous jurisdictions around the world.",
+    "links": [
+     {
+      "label": "Contact us",
+      "href": "/kz/contact-us/"
+     },
+     {
+      "label": "FAQs",
+      "href": "/kz/faqs/"
+     },
+     {
+      "label": "Orders and delivery",
+      "href": "/kz/orders-and-shipping/"
+     },
+     {
+      "label": "Returns and refunds",
+      "href": "/kz/returns-and-refunds/"
+     },
+     {
+      "label": "Payment and pricing",
+      "href": "/kz/payment-and-pricing/"
+     },
+     {
+      "label": "Cryptocurrency payments",
+      "href": "/kz/cryptocurrency-payment"
+     },
+     {
+      "label": "Promotion terms and conditions",
+      "href": "/kz/promotion-terms-and-conditions"
+     },
+     {
+      "label": "How to shop",
+      "href": "/kz/how-to-shop"
+     },
+     {
+      "label": "FARFETCH Customer Promise",
+      "href": "/kz/customer-promise/"
+     },
+     {
+      "label": "About us",
+      "href": "https://aboutfarfetch.com/"
+     },
+     {
+      "label": "FARFETCH partner boutiques",
+      "href": "/kz/boutiques"
+     },
+     {
+      "label": "Careers",
+      "href": "https://aboutfarfetch.com/careers/our-approach-to-hiring/"
+     },
+     {
+      "label": "FARFETCH app",
+      "href": "/kz/discover-app/"
+     },
+     {
+      "label": "Modern slavery statement",
+      "href": "/kz/modern-slavery-statement/"
+     },
+     {
+      "label": "FARFETCH Advertising",
+      "href": "https://advertising.farfetch.com/#hero"
+     },
+     {
+      "label": "Sitemap",
+      "href": "/kz/stories/all-brands-on-sale"
+     },
+     {
+      "label": "Affiliate program",
+      "href": "/kz/pag1987.aspx"
+     },
+     {
+      "label": "Refer a friend",
+      "href": "/kz/refer-a-friend?situation=homepage_footer"
+     },
+     {
+      "label": "FARFETCH membership",
+      "href": "/kz/farfetch-access-programme"
+     },
+     {
+      "label": "Student Beans and Graduates",
+      "href": "/kz/student-discount/student-beans"
+     },
+     {
+      "label": "Fashion Feed: the latest style stories",
+      "href": "/kz/stories/fashion-feed"
+     },
+     {
+      "label": null,
+      "href": "https://instagram.com/farfetch"
+     },
+     {
+      "label": null,
+      "href": "https://www.tiktok.com/@farfetch"
+     },
+     {
+      "label": null,
+      "href": "https://www.facebook.com/Farfetch/"
+     },
+     {
+      "label": null,
+      "href": "https://www.youtube.com/user/farfetchdotcom"
+     },
+     {
+      "label": "Privacy policy",
+      "href": "/kz/privacy-policy/"
+     },
+     {
+      "label": "Terms and conditions",
+      "href": "/kz/terms-and-conditions/"
+     },
+     {
+      "label": "Accessibility",
+      "href": "/kz/farfetch-accessibility/"
+     }
+    ]
+   },
+   {
+    "heading": "'FARFETCH' and the 'FARFETCH' logo are trade marks of FARFETCH UK Limited and are registered in numerous jurisdictions around the world.",
+    "links": [
+     {
+      "label": "Privacy policy",
+      "href": "/kz/privacy-policy/"
+     },
+     {
+      "label": "Terms and conditions",
+      "href": "/kz/terms-and-conditions/"
+     },
+     {
+      "label": "Accessibility",
+      "href": "/kz/farfetch-accessibility/"
+     }
+    ]
+   }
+  ],
+  "social": [
+   {
+    "aria": "instagram",
+    "href": "https://instagram.com/farfetch"
+   },
+   {
+    "aria": "tikTok",
+    "href": "https://www.tiktok.com/@farfetch"
+   },
+   {
+    "aria": "facebook",
+    "href": "https://www.facebook.com/Farfetch/"
+   },
+   {
+    "aria": "youtube",
+    "href": "https://www.youtube.com/user/farfetchdotcom"
+   }
+  ],
+  "legal": [
+   {
+    "label": "Promotion terms and conditions",
+    "href": "/kz/promotion-terms-and-conditions"
+   },
+   {
+    "label": "Privacy policy",
+    "href": "/kz/privacy-policy/"
+   },
+   {
+    "label": "Terms and conditions",
+    "href": "/kz/terms-and-conditions/"
+   },
+   {
+    "label": "Accessibility",
+    "href": "/kz/farfetch-accessibility/"
+   }
+  ],
+  "legalText": "'FARFETCH' and the 'FARFETCH' logo are trade marks of FARFETCH UK Limited and are registered in numerous jurisdictions around the world.",
+  "copyright": "© Copyright 2026 FARFETCH UK Limited. All rights reserved."
+ },
+ "genderTabs": [
+  {
+   "label": "Menswear",
+   "tag": "button",
+   "href": null,
+   "fontWeight": "700",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "borderBottom": "1px solid rgba(255, 255, 255, 0)"
+  },
+  {
+   "label": "Womenswear",
+   "tag": "a",
+   "href": "/kz/shopping/women/items.aspx",
+   "fontWeight": "400",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "borderBottom": "1px solid rgba(255, 255, 255, 0)"
+  },
+  {
+   "label": "Menswear",
+   "tag": "a",
+   "href": "/kz/shopping/men/items.aspx",
+   "fontWeight": "700",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "borderBottom": "1px solid rgba(255, 255, 255, 0)"
+  },
+  {
+   "label": "Kidswear",
+   "tag": "a",
+   "href": "/kz/shopping/kids/items.aspx",
+   "fontWeight": "400",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "borderBottom": "1px solid rgba(255, 255, 255, 0)"
+  }
+ ],
+ "navItems": [
+  {
+   "label": "Sale",
+   "href": "/kz/shopping/men/sale/all/items.aspx",
+   "color": "rgb(231, 29, 52)",
+   "fontSize": "15px",
+   "fontWeight": "400",
+   "padding": "0px 0px"
+  },
+  {
+   "label": "New in",
+   "href": "/kz/sets/new-in-this-week-eu-men.aspx",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "fontWeight": "400",
+   "padding": "0px 0px"
+  },
+  {
+   "label": "Vacation",
+   "href": "/kz/sets/vacation-men.aspx",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "fontWeight": "400",
+   "padding": "0px 0px"
+  },
+  {
+   "label": "Brands",
+   "href": "/kz/designers/men",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "fontWeight": "400",
+   "padding": "0px 0px"
+  },
+  {
+   "label": "Clothing",
+   "href": "/kz/shopping/men/clothing-2/items.aspx",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "fontWeight": "400",
+   "padding": "0px 0px"
+  },
+  {
+   "label": "Shoes",
+   "href": "/kz/shopping/men/shoes-2/items.aspx",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "fontWeight": "400",
+   "padding": "0px 0px"
+  },
+  {
+   "label": "Bags",
+   "href": "/kz/shopping/men/bags-purses-2/items.aspx",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "fontWeight": "400",
+   "padding": "0px 0px"
+  },
+  {
+   "label": "Accessories",
+   "href": "/kz/shopping/men/accessories-all-2/items.aspx",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "fontWeight": "400",
+   "padding": "0px 0px"
+  },
+  {
+   "label": "Watches",
+   "href": "/kz/shopping/men/watches-4/items.aspx",
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "fontWeight": "400",
+   "padding": "0px 0px"
+  },
+  {
+   "label": "Lifestyle",
+   "href": null,
+   "color": "rgb(34, 34, 34)",
+   "fontSize": "15px",
+   "fontWeight": "400",
+   "padding": "0px 0px"
+  }
+ ]
+}

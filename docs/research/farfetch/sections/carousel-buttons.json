@@ -1,0 +1,50 @@
+[
+  {
+    "aria": "Add to wishlist",
+    "text": "",
+    "rect": {
+      "x": 316,
+      "y": 206,
+      "w": 44,
+      "h": 44
+    },
+    "visible": true,
+    "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heart\"></use></svg>"
+  },
+  {
+    "aria": "Add to wishlist",
+    "text": "",
+    "rect": {
+      "x": 668,
+      "y": 206,
+      "w": 44,
+      "h": 44
+    },
+    "visible": true,
+    "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heart\"></use></svg>"
+  },
+  {
+    "aria": "Add to wishlist",
+    "text": "",
+    "rect": {
+      "x": 1020,
+      "y": 206,
+      "w": 44,
+      "h": 44
+    },
+    "visible": true,
+    "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heart\"></use></svg>"
+  },
+  {
+    "aria": "Add to wishlist",
+    "text": "",
+    "rect": {
+      "x": 1372,
+      "y": 206,
+      "w": 44,
+      "h": 44
+    },
+    "visible": true,
+    "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heart\"></use></svg>"
+  }
+]

@@ -1,0 +1,346 @@
+{
+ "tag": "ul",
+ "testid": "globalPos",
+ "rect": {
+  "x": 0,
+  "y": 0,
+  "w": 1440,
+  "h": 30
+ },
+ "styles": {
+  "fontSize": "15px",
+  "fontWeight": "400",
+  "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+  "lineHeight": "19.9995px",
+  "color": "rgb(34, 34, 34)",
+  "width": "1440px",
+  "height": "30px",
+  "display": "grid",
+  "flex": "0 1 auto",
+  "gridTemplateColumns": "1440px",
+  "border": "0px none rgb(34, 34, 34)",
+  "borderTop": "0px none rgb(34, 34, 34)",
+  "borderBottom": "0px none rgb(34, 34, 34)",
+  "position": "relative",
+  "zIndex": "210",
+  "transition": "all",
+  "objectFit": "fill",
+  "textOverflow": "clip",
+  "textAlign": "start",
+  "verticalAlign": "baseline"
+ },
+ "children": [
+  {
+   "tag": "li",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 30
+   },
+   "styles": {
+    "fontSize": "13px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "lineHeight": "17.0001px",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgb(34, 34, 34)",
+    "paddingTop": "6px",
+    "paddingRight": "48px",
+    "paddingBottom": "6px",
+    "paddingLeft": "48px",
+    "width": "1440px",
+    "height": "30px",
+    "minHeight": "30px",
+    "display": "flex",
+    "alignItems": "center",
+    "flex": "0 1 auto",
+    "border": "0px none rgb(255, 255, 255)",
+    "borderTop": "0px none rgb(255, 255, 255)",
+    "borderBottom": "0px none rgb(255, 255, 255)",
+    "overflow": "hidden",
+    "overflowX": "hidden",
+    "transition": "opacity 0.15s cubic-bezier(0.66, 0, 0.2, 1)",
+    "objectFit": "fill",
+    "textOverflow": "clip",
+    "textAlign": "center",
+    "verticalAlign": "baseline"
+   },
+   "children": [
+    {
+     "tag": "span",
+     "rect": {
+      "x": 48,
+      "y": 7,
+      "w": 1344,
+      "h": 17
+     },
+     "styles": {
+      "fontSize": "13px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "17.0001px",
+      "color": "rgb(255, 255, 255)",
+      "width": "1344px",
+      "height": "17px",
+      "display": "flow-root",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(255, 255, 255)",
+      "borderTop": "0px none rgb(255, 255, 255)",
+      "borderBottom": "0px none rgb(255, 255, 255)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "position": "relative",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "ellipsis",
+      "textAlign": "center",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "a",
+       "href": "https://www.farfetch.com/promotions/men/summer-promotion",
+       "rect": {
+        "x": 607,
+        "y": 9,
+        "w": 226,
+        "h": 13
+       },
+       "text": "Enjoy up to 60% off sale, plus 20% off",
+       "styles": {
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "17.0001px",
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "underline",
+        "display": "inline",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderTop": "0px none rgb(255, 255, 255)",
+        "borderBottom": "0px none rgb(255, 255, 255)",
+        "transition": "all",
+        "cursor": "pointer",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "center",
+        "verticalAlign": "baseline"
+       },
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "li",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 30
+   },
+   "styles": {
+    "fontSize": "13px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "lineHeight": "17.0001px",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgb(34, 34, 34)",
+    "paddingTop": "6px",
+    "paddingRight": "48px",
+    "paddingBottom": "6px",
+    "paddingLeft": "48px",
+    "width": "1440px",
+    "height": "30px",
+    "minHeight": "30px",
+    "display": "flex",
+    "alignItems": "center",
+    "flex": "0 1 auto",
+    "border": "0px none rgb(255, 255, 255)",
+    "borderTop": "0px none rgb(255, 255, 255)",
+    "borderBottom": "0px none rgb(255, 255, 255)",
+    "overflow": "hidden",
+    "overflowX": "hidden",
+    "opacity": "0",
+    "transition": "opacity 0.15s cubic-bezier(0.66, 0, 0.2, 1)",
+    "objectFit": "fill",
+    "textOverflow": "clip",
+    "textAlign": "center",
+    "verticalAlign": "baseline"
+   },
+   "children": [
+    {
+     "tag": "span",
+     "rect": {
+      "x": 48,
+      "y": 7,
+      "w": 1344,
+      "h": 17
+     },
+     "styles": {
+      "fontSize": "13px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "17.0001px",
+      "color": "rgb(255, 255, 255)",
+      "width": "1344px",
+      "height": "17px",
+      "display": "flow-root",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(255, 255, 255)",
+      "borderTop": "0px none rgb(255, 255, 255)",
+      "borderBottom": "0px none rgb(255, 255, 255)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "position": "relative",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "ellipsis",
+      "textAlign": "center",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "a",
+       "href": "/promotion-terms-and-conditions/",
+       "rect": {
+        "x": 565,
+        "y": 9,
+        "w": 311,
+        "h": 13
+       },
+       "text": "Download the app to get 10% off your first app order",
+       "styles": {
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "17.0001px",
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "underline",
+        "display": "inline",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderTop": "0px none rgb(255, 255, 255)",
+        "borderBottom": "0px none rgb(255, 255, 255)",
+        "transition": "all",
+        "cursor": "pointer",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "center",
+        "verticalAlign": "baseline"
+       },
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "li",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 30
+   },
+   "styles": {
+    "fontSize": "13px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "lineHeight": "17.0001px",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgb(34, 34, 34)",
+    "paddingTop": "6px",
+    "paddingRight": "48px",
+    "paddingBottom": "6px",
+    "paddingLeft": "48px",
+    "width": "1440px",
+    "height": "30px",
+    "minHeight": "30px",
+    "display": "flex",
+    "alignItems": "center",
+    "flex": "0 1 auto",
+    "border": "0px none rgb(255, 255, 255)",
+    "borderTop": "0px none rgb(255, 255, 255)",
+    "borderBottom": "0px none rgb(255, 255, 255)",
+    "overflow": "hidden",
+    "overflowX": "hidden",
+    "opacity": "0",
+    "transition": "opacity 0.15s cubic-bezier(0.66, 0, 0.2, 1)",
+    "objectFit": "fill",
+    "textOverflow": "clip",
+    "textAlign": "center",
+    "verticalAlign": "baseline"
+   },
+   "children": [
+    {
+     "tag": "span",
+     "rect": {
+      "x": 48,
+      "y": 7,
+      "w": 1344,
+      "h": 17
+     },
+     "text": ": up to 60% off",
+     "styles": {
+      "fontSize": "13px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "17.0001px",
+      "color": "rgb(255, 255, 255)",
+      "width": "1344px",
+      "height": "17px",
+      "display": "flow-root",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(255, 255, 255)",
+      "borderTop": "0px none rgb(255, 255, 255)",
+      "borderBottom": "0px none rgb(255, 255, 255)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "position": "relative",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "ellipsis",
+      "textAlign": "center",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "a",
+       "href": "https://www.farfetch.com/shopping/men/sale/all/items.aspx",
+       "rect": {
+        "x": 616,
+        "y": 9,
+        "w": 117,
+        "h": 13
+       },
+       "text": "Shop the SS26 sale",
+       "styles": {
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "17.0001px",
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "underline",
+        "display": "inline",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderTop": "0px none rgb(255, 255, 255)",
+        "borderBottom": "0px none rgb(255, 255, 255)",
+        "transition": "all",
+        "cursor": "pointer",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "center",
+        "verticalAlign": "baseline"
+       },
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1254 @@
+{
+ "tag": "div",
+ "testid": "custom-module-wrapper",
+ "rect": {
+  "x": 24,
+  "y": 4274,
+  "w": 1392,
+  "h": 723
+ },
+ "styles": {
+  "fontSize": "15px",
+  "fontWeight": "400",
+  "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+  "lineHeight": "19.9995px",
+  "color": "rgb(34, 34, 34)",
+  "width": "1392px",
+  "height": "722.641px",
+  "display": "flex",
+  "justifyContent": "center",
+  "flex": "0 1 auto",
+  "border": "0px none rgb(34, 34, 34)",
+  "borderTop": "0px none rgb(34, 34, 34)",
+  "borderBottom": "0px none rgb(34, 34, 34)",
+  "transition": "all",
+  "objectFit": "fill",
+  "textOverflow": "clip",
+  "textAlign": "start",
+  "verticalAlign": "baseline"
+ },
+ "children": [
+  {
+   "tag": "div",
+   "testid": "premium-brands",
+   "rect": {
+    "x": 24,
+    "y": 4274,
+    "w": 1392,
+    "h": 723
+   },
+   "styles": {
+    "fontSize": "15px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "lineHeight": "19.9995px",
+    "color": "rgb(34, 34, 34)",
+    "paddingTop": "48px",
+    "paddingBottom": "24px",
+    "width": "1392px",
+    "height": "722.641px",
+    "maxWidth": "100%",
+    "display": "block",
+    "flex": "0 1 auto",
+    "border": "0px none rgb(34, 34, 34)",
+    "borderTop": "0px none rgb(34, 34, 34)",
+    "borderBottom": "0px none rgb(34, 34, 34)",
+    "transition": "all",
+    "objectFit": "fill",
+    "textOverflow": "clip",
+    "textAlign": "start",
+    "verticalAlign": "baseline"
+   },
+   "children": [
+    {
+     "tag": "div",
+     "rect": {
+      "x": 24,
+      "y": 4322,
+      "w": 1392,
+      "h": 651
+     },
+     "styles": {
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "19.9995px",
+      "color": "rgb(34, 34, 34)",
+      "width": "1392px",
+      "height": "650.641px",
+      "display": "flex",
+      "flexDirection": "column",
+      "gap": "36px",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(34, 34, 34)",
+      "borderTop": "0px none rgb(34, 34, 34)",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "clip",
+      "textAlign": "start",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "p",
+       "rect": {
+        "x": 24,
+        "y": 4322,
+        "w": 1392,
+        "h": 28
+       },
+       "text": "Brands of the moment",
+       "styles": {
+        "fontSize": "22px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "27.9994px",
+        "color": "rgb(34, 34, 34)",
+        "width": "1392px",
+        "height": "27.9844px",
+        "display": "block",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": []
+      },
+      {
+       "tag": "div",
+       "rect": {
+        "x": 24,
+        "y": 4386,
+        "w": 1392,
+        "h": 587
+       },
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "width": "1392px",
+        "height": "586.656px",
+        "display": "flex",
+        "gap": "36px",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "article",
+         "rect": {
+          "x": 24,
+          "y": 4386,
+          "w": 440,
+          "h": 587
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "width": "440px",
+          "height": "586.656px",
+          "display": "grid",
+          "flex": "0 1 auto",
+          "gridTemplateColumns": "440px",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "position": "relative",
+          "transition": "all",
+          "objectFit": "fill",
+          "aspectRatio": "3 / 4",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "div",
+           "rect": {
+            "x": 24,
+            "y": 4386,
+            "w": 440,
+            "h": 587
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "width": "440px",
+            "height": "586.656px",
+            "maxWidth": "100%",
+            "display": "block",
+            "alignItems": "stretch",
+            "flex": "0 1 auto",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "overflow": "hidden",
+            "overflowX": "hidden",
+            "position": "relative",
+            "transition": "opacity 0.3s cubic-bezier(1, 0, 1, 1) 0.15s",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "picture",
+             "rect": {
+              "x": 24,
+              "y": 4386,
+              "w": 440,
+              "h": 587
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "440px",
+              "height": "586.656px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "position": "absolute",
+              "transition": "all",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "source",
+               "rect": {
+                "x": 24,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 24,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 24,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 24,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 24,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "img",
+               "rect": {
+                "x": 24,
+                "y": 4386,
+                "w": 440,
+                "h": 587
+               },
+               "img": {
+                "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689362/data/c12eb97eddd514bddf97bf716ad63864/3x4/640/2026-06-01-mw-webapp-lardini-vacation-lardini-multicategory-img.jpeg",
+                "w": 640,
+                "h": 853
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "440px",
+                "height": "586.656px",
+                "maxWidth": "100%",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "clip",
+                "overflowX": "clip",
+                "transition": "all",
+                "objectFit": "cover",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "tag": "div",
+           "rect": {
+            "x": 24,
+            "y": 4887,
+            "w": 440,
+            "h": 86
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(255, 255, 255)",
+            "paddingTop": "24px",
+            "paddingRight": "24px",
+            "paddingBottom": "24px",
+            "paddingLeft": "24px",
+            "width": "440px",
+            "height": "86px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "8px",
+            "flex": "0 1 auto",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderTop": "0px none rgb(255, 255, 255)",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "transition": "all",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "left",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "a",
+             "href": "/shopping/men/lardini/items.aspx",
+             "rect": {
+              "x": 48,
+              "y": 4911,
+              "w": 392,
+              "h": 38
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(255, 255, 255)",
+              "width": "392px",
+              "height": "38px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(255, 255, 255)",
+              "borderTop": "0px none rgb(255, 255, 255)",
+              "borderBottom": "0px none rgb(255, 255, 255)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "left",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "p",
+               "rect": {
+                "x": 48,
+                "y": 4911,
+                "w": 392,
+                "h": 38
+               },
+               "text": "Lardini",
+               "styles": {
+                "fontSize": "30px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "38.001px",
+                "color": "rgb(255, 255, 255)",
+                "width": "392px",
+                "height": "38px",
+                "display": "flow-root",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(255, 255, 255)",
+                "borderTop": "0px none rgb(255, 255, 255)",
+                "borderBottom": "0px none rgb(255, 255, 255)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "ellipsis",
+                "textAlign": "left",
+                "verticalAlign": "baseline"
+               }
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "article",
+         "rect": {
+          "x": 500,
+          "y": 4386,
+          "w": 440,
+          "h": 587
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "width": "440px",
+          "height": "586.656px",
+          "display": "grid",
+          "flex": "0 1 auto",
+          "gridTemplateColumns": "440px",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "position": "relative",
+          "transition": "all",
+          "objectFit": "fill",
+          "aspectRatio": "3 / 4",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "div",
+           "rect": {
+            "x": 500,
+            "y": 4386,
+            "w": 440,
+            "h": 587
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "width": "440px",
+            "height": "586.656px",
+            "maxWidth": "100%",
+            "display": "block",
+            "alignItems": "stretch",
+            "flex": "0 1 auto",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "overflow": "hidden",
+            "overflowX": "hidden",
+            "position": "relative",
+            "transition": "opacity 0.3s cubic-bezier(1, 0, 1, 1) 0.15s",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "picture",
+             "rect": {
+              "x": 500,
+              "y": 4386,
+              "w": 440,
+              "h": 587
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "440px",
+              "height": "586.656px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "position": "absolute",
+              "transition": "all",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "source",
+               "rect": {
+                "x": 500,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 500,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 500,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 500,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 500,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "img",
+               "rect": {
+                "x": 500,
+                "y": 4386,
+                "w": 440,
+                "h": 587
+               },
+               "img": {
+                "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689366/data/1c2af6f0953033ac798223f2766be606/3x4/640/2026-06-01-mw-webapp-boggi-milano-vacation-boggi-milano-multicategory-img.jpeg",
+                "w": 640,
+                "h": 853
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "440px",
+                "height": "586.656px",
+                "maxWidth": "100%",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "clip",
+                "overflowX": "clip",
+                "transition": "all",
+                "objectFit": "cover",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "tag": "div",
+           "rect": {
+            "x": 500,
+            "y": 4887,
+            "w": 440,
+            "h": 86
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(255, 255, 255)",
+            "paddingTop": "24px",
+            "paddingRight": "24px",
+            "paddingBottom": "24px",
+            "paddingLeft": "24px",
+            "width": "440px",
+            "height": "86px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "8px",
+            "flex": "0 1 auto",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderTop": "0px none rgb(255, 255, 255)",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "transition": "all",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "left",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "a",
+             "href": "/shopping/men/designer-boggi-milano/items.aspx",
+             "rect": {
+              "x": 524,
+              "y": 4911,
+              "w": 392,
+              "h": 38
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(255, 255, 255)",
+              "width": "392px",
+              "height": "38px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(255, 255, 255)",
+              "borderTop": "0px none rgb(255, 255, 255)",
+              "borderBottom": "0px none rgb(255, 255, 255)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "left",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "p",
+               "rect": {
+                "x": 524,
+                "y": 4911,
+                "w": 392,
+                "h": 38
+               },
+               "text": "Boggi Milano",
+               "styles": {
+                "fontSize": "30px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "38.001px",
+                "color": "rgb(255, 255, 255)",
+                "width": "392px",
+                "height": "38px",
+                "display": "flow-root",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(255, 255, 255)",
+                "borderTop": "0px none rgb(255, 255, 255)",
+                "borderBottom": "0px none rgb(255, 255, 255)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "ellipsis",
+                "textAlign": "left",
+                "verticalAlign": "baseline"
+               }
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "article",
+         "rect": {
+          "x": 976,
+          "y": 4386,
+          "w": 440,
+          "h": 587
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "width": "440px",
+          "height": "586.656px",
+          "display": "grid",
+          "flex": "0 1 auto",
+          "gridTemplateColumns": "440px",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "position": "relative",
+          "transition": "all",
+          "objectFit": "fill",
+          "aspectRatio": "3 / 4",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "div",
+           "rect": {
+            "x": 976,
+            "y": 4386,
+            "w": 440,
+            "h": 587
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "width": "440px",
+            "height": "586.656px",
+            "maxWidth": "100%",
+            "display": "block",
+            "alignItems": "stretch",
+            "flex": "0 1 auto",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "overflow": "hidden",
+            "overflowX": "hidden",
+            "position": "relative",
+            "transition": "opacity 0.3s cubic-bezier(1, 0, 1, 1) 0.15s",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "picture",
+             "rect": {
+              "x": 976,
+              "y": 4386,
+              "w": 440,
+              "h": 587
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "440px",
+              "height": "586.656px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "position": "absolute",
+              "transition": "all",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "source",
+               "rect": {
+                "x": 976,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 976,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 976,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 976,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "source",
+               "rect": {
+                "x": 976,
+                "y": 4960,
+                "w": 0,
+                "h": 15
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              },
+              {
+               "tag": "img",
+               "rect": {
+                "x": 976,
+                "y": 4386,
+                "w": 440,
+                "h": 587
+               },
+               "img": {
+                "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689370/data/7b4c96929ac4ef69b0e09503b8d67d97/3x4/640/2026-06-01-mw-webapp-maniere-de-voir-vacation-maniere-de-voir-multicategory-img.jpeg",
+                "w": 640,
+                "h": 853
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "440px",
+                "height": "586.656px",
+                "maxWidth": "100%",
+                "display": "inline",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "clip",
+                "overflowX": "clip",
+                "transition": "all",
+                "objectFit": "cover",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               }
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "tag": "div",
+           "rect": {
+            "x": 976,
+            "y": 4887,
+            "w": 440,
+            "h": 86
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(255, 255, 255)",
+            "paddingTop": "24px",
+            "paddingRight": "24px",
+            "paddingBottom": "24px",
+            "paddingLeft": "24px",
+            "width": "440px",
+            "height": "86px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "8px",
+            "flex": "0 1 auto",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderTop": "0px none rgb(255, 255, 255)",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "transition": "all",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "left",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "a",
+             "href": "/shopping/men/designer-maniere-de-voir/items.aspx",
+             "rect": {
+              "x": 1000,
+              "y": 4911,
+              "w": 392,
+              "h": 38
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(255, 255, 255)",
+              "width": "392px",
+              "height": "38px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(255, 255, 255)",
+              "borderTop": "0px none rgb(255, 255, 255)",
+              "borderBottom": "0px none rgb(255, 255, 255)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "left",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "p",
+               "rect": {
+                "x": 1000,
+                "y": 4911,
+                "w": 392,
+                "h": 38
+               },
+               "text": "Manière De Voir",
+               "styles": {
+                "fontSize": "30px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "38.001px",
+                "color": "rgb(255, 255, 255)",
+                "width": "392px",
+                "height": "38px",
+                "display": "flow-root",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(255, 255, 255)",
+                "borderTop": "0px none rgb(255, 255, 255)",
+                "borderBottom": "0px none rgb(255, 255, 255)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "ellipsis",
+                "textAlign": "left",
+                "verticalAlign": "baseline"
+               }
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

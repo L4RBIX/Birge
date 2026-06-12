@@ -1,0 +1,968 @@
+{
+ "tag": "div",
+ "testid": "custom-module-container",
+ "rect": {
+  "x": 24,
+  "y": 2727,
+  "w": 1392,
+  "h": 656
+ },
+ "styles": {
+  "fontSize": "15px",
+  "fontWeight": "400",
+  "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+  "lineHeight": "19.9995px",
+  "color": "rgb(34, 34, 34)",
+  "width": "1392px",
+  "height": "655.578px",
+  "display": "flex",
+  "flexDirection": "column",
+  "alignItems": "center",
+  "flex": "0 1 auto",
+  "border": "0px none rgb(34, 34, 34)",
+  "borderTop": "0px none rgb(34, 34, 34)",
+  "borderBottom": "0px none rgb(34, 34, 34)",
+  "transition": "all",
+  "objectFit": "fill",
+  "textOverflow": "clip",
+  "textAlign": "start",
+  "verticalAlign": "baseline"
+ },
+ "children": [
+  {
+   "tag": "div",
+   "rect": {
+    "x": 24,
+    "y": 2727,
+    "w": 1392,
+    "h": 76
+   },
+   "styles": {
+    "fontSize": "15px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "lineHeight": "19.9995px",
+    "color": "rgb(34, 34, 34)",
+    "width": "1392px",
+    "height": "75.9844px",
+    "display": "flex",
+    "justifyContent": "center",
+    "flex": "0 1 auto",
+    "border": "0px none rgb(34, 34, 34)",
+    "borderTop": "0px none rgb(34, 34, 34)",
+    "borderBottom": "0px none rgb(34, 34, 34)",
+    "transition": "all",
+    "objectFit": "fill",
+    "textOverflow": "clip",
+    "textAlign": "start",
+    "verticalAlign": "baseline"
+   },
+   "children": [
+    {
+     "tag": "h2",
+     "rect": {
+      "x": 256,
+      "y": 2775,
+      "w": 928,
+      "h": 28
+     },
+     "text": "Trending now",
+     "styles": {
+      "fontSize": "22px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "27.9994px",
+      "color": "rgb(34, 34, 34)",
+      "marginTop": "48px",
+      "width": "928px",
+      "height": "27.9844px",
+      "display": "block",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(34, 34, 34)",
+      "borderTop": "0px none rgb(34, 34, 34)",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "clip",
+      "textAlign": "center",
+      "verticalAlign": "baseline"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "testid": "custom-module-wrapper",
+   "rect": {
+    "x": 24,
+    "y": 2803,
+    "w": 1392,
+    "h": 580
+   },
+   "styles": {
+    "fontSize": "15px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "lineHeight": "19.9995px",
+    "color": "rgb(34, 34, 34)",
+    "width": "1392px",
+    "height": "579.594px",
+    "display": "flex",
+    "justifyContent": "center",
+    "flex": "0 1 auto",
+    "border": "0px none rgb(34, 34, 34)",
+    "borderTop": "0px none rgb(34, 34, 34)",
+    "borderBottom": "0px none rgb(34, 34, 34)",
+    "transition": "all",
+    "objectFit": "fill",
+    "textOverflow": "clip",
+    "textAlign": "start",
+    "verticalAlign": "baseline"
+   },
+   "children": [
+    {
+     "tag": "div",
+     "rect": {
+      "x": 24,
+      "y": 2803,
+      "w": 1392,
+      "h": 580
+     },
+     "styles": {
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "19.9995px",
+      "color": "rgb(34, 34, 34)",
+      "width": "1392px",
+      "height": "579.594px",
+      "display": "flex",
+      "flexDirection": "column",
+      "alignItems": "center",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(34, 34, 34)",
+      "borderTop": "0px none rgb(34, 34, 34)",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "clip",
+      "textAlign": "start",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "div",
+       "testid": "editorial-post-list",
+       "rect": {
+        "x": 24,
+        "y": 2803,
+        "w": 1392,
+        "h": 580
+       },
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "paddingTop": "48px",
+        "paddingBottom": "24px",
+        "width": "1392px",
+        "height": "579.594px",
+        "display": "flex",
+        "flexWrap": "wrap",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "article",
+         "testid": "editorial-post",
+         "rect": {
+          "x": 24,
+          "y": 2851,
+          "w": 330,
+          "h": 484
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "marginRight": "24px",
+          "marginBottom": "24px",
+          "width": "329.984px",
+          "height": "483.594px",
+          "display": "block",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "a",
+           "testid": "editorial-link",
+           "aria": "Spotlight on Casablanca",
+           "href": "/kz/shopping/men/casablanca/items.aspx",
+           "rect": {
+            "x": 24,
+            "y": 2851,
+            "w": 330,
+            "h": 484
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "display": "inline",
+            "flex": "0 1 auto",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "transition": "all",
+            "cursor": "pointer",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "div",
+             "rect": {
+              "x": 24,
+              "y": 2851,
+              "w": 330,
+              "h": 440
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "329.984px",
+              "height": "439.609px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "testid": "editorial-featured-media",
+               "rect": {
+                "x": 24,
+                "y": 2851,
+                "w": 330,
+                "h": 440
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "329.984px",
+                "height": "439.609px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "position": "relative",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            },
+            {
+             "tag": "div",
+             "rect": {
+              "x": 24,
+              "y": 3314,
+              "w": 330,
+              "h": 20
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "marginTop": "24px",
+              "width": "329.984px",
+              "height": "19.9844px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "testid": "editorial-title",
+               "rect": {
+                "x": 24,
+                "y": 3314,
+                "w": 330,
+                "h": 20
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "329.984px",
+                "height": "19.9844px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "article",
+         "testid": "editorial-post",
+         "rect": {
+          "x": 378,
+          "y": 2851,
+          "w": 330,
+          "h": 484
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "marginRight": "24px",
+          "marginBottom": "24px",
+          "width": "329.984px",
+          "height": "483.594px",
+          "display": "block",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "a",
+           "testid": "editorial-link",
+           "aria": "The jacket update",
+           "href": "/kz/shopping/men/jackets-2/items.aspx",
+           "rect": {
+            "x": 378,
+            "y": 2851,
+            "w": 330,
+            "h": 484
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "display": "inline",
+            "flex": "0 1 auto",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "transition": "all",
+            "cursor": "pointer",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "div",
+             "rect": {
+              "x": 378,
+              "y": 2851,
+              "w": 330,
+              "h": 440
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "329.984px",
+              "height": "439.609px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "testid": "editorial-featured-media",
+               "rect": {
+                "x": 378,
+                "y": 2851,
+                "w": 330,
+                "h": 440
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "329.984px",
+                "height": "439.609px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "position": "relative",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            },
+            {
+             "tag": "div",
+             "rect": {
+              "x": 378,
+              "y": 3314,
+              "w": 330,
+              "h": 20
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "marginTop": "24px",
+              "width": "329.984px",
+              "height": "19.9844px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "testid": "editorial-title",
+               "rect": {
+                "x": 378,
+                "y": 3314,
+                "w": 330,
+                "h": 20
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "329.984px",
+                "height": "19.9844px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "article",
+         "testid": "editorial-post",
+         "rect": {
+          "x": 732,
+          "y": 2851,
+          "w": 330,
+          "h": 484
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "marginRight": "24px",
+          "marginBottom": "24px",
+          "width": "329.984px",
+          "height": "483.594px",
+          "display": "block",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "a",
+           "testid": "editorial-link",
+           "aria": "Airport staples",
+           "href": "/kz/sets/men/airport-essentials.aspx",
+           "rect": {
+            "x": 732,
+            "y": 2851,
+            "w": 330,
+            "h": 484
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "display": "inline",
+            "flex": "0 1 auto",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "transition": "all",
+            "cursor": "pointer",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "div",
+             "rect": {
+              "x": 732,
+              "y": 2851,
+              "w": 330,
+              "h": 440
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "329.984px",
+              "height": "439.609px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "testid": "editorial-featured-media",
+               "rect": {
+                "x": 732,
+                "y": 2851,
+                "w": 330,
+                "h": 440
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "329.984px",
+                "height": "439.609px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "position": "relative",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            },
+            {
+             "tag": "div",
+             "rect": {
+              "x": 732,
+              "y": 3314,
+              "w": 330,
+              "h": 20
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "marginTop": "24px",
+              "width": "329.984px",
+              "height": "19.9844px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "testid": "editorial-title",
+               "rect": {
+                "x": 732,
+                "y": 3314,
+                "w": 330,
+                "h": 20
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "329.984px",
+                "height": "19.9844px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "article",
+         "testid": "editorial-post",
+         "rect": {
+          "x": 1086,
+          "y": 2851,
+          "w": 330,
+          "h": 484
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "marginBottom": "24px",
+          "width": "329.984px",
+          "height": "483.594px",
+          "display": "block",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "a",
+           "testid": "editorial-link",
+           "aria": "How to style shorts",
+           "href": "/kz/sets/men/how-to-style-shorts-for-men.aspx",
+           "rect": {
+            "x": 1086,
+            "y": 2851,
+            "w": 330,
+            "h": 484
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "display": "inline",
+            "flex": "0 1 auto",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "transition": "all",
+            "cursor": "pointer",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "div",
+             "rect": {
+              "x": 1086,
+              "y": 2851,
+              "w": 330,
+              "h": 440
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "329.984px",
+              "height": "439.609px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "testid": "editorial-featured-media",
+               "rect": {
+                "x": 1086,
+                "y": 2851,
+                "w": 330,
+                "h": 440
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "329.984px",
+                "height": "439.609px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "position": "relative",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            },
+            {
+             "tag": "div",
+             "rect": {
+              "x": 1086,
+              "y": 3314,
+              "w": 330,
+              "h": 20
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "marginTop": "24px",
+              "width": "329.984px",
+              "height": "19.9844px",
+              "display": "block",
+              "flex": "0 1 auto",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "testid": "editorial-title",
+               "rect": {
+                "x": 1086,
+                "y": 3314,
+                "w": 330,
+                "h": 20
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "329.984px",
+                "height": "19.9844px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

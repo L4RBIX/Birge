@@ -1,0 +1,149 @@
+{
+ "imgs": [
+  {
+   "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689974/data/9ad0aa63fe62e78615810c069fdec03a/3x4_messaging-side/936/2026-06-08-mw-webapp-nh-summer-events-vacation-multibrand-multicategory-img.jpeg",
+   "srcset": null,
+   "alt": "",
+   "w": 936,
+   "h": 1248,
+   "section": "footer",
+   "sectionTestid": "hero-feature-media"
+  },
+  {
+   "src": "https://cdn-images.farfetch-contents.com/36/28/13/46/36281346_68487648_600.jpg",
+   "srcset": "https://cdn-images.farfetch-contents.com/36/28/13/46/36281346_68487648_600.jpg 600w, https://cdn-images.farfetch-contents.com/36/28/13/46/36281346_68487648_480.jpg 480w",
+   "alt": "",
+   "w": 600,
+   "h": 800,
+   "section": "footer",
+   "sectionTestid": "product-image"
+  },
+  {
+   "src": "https://cdn-images.farfetch-contents.com/34/07/68/77/34076877_68955679_600.jpg",
+   "srcset": "https://cdn-images.farfetch-contents.com/34/07/68/77/34076877_68955679_600.jpg 600w, https://cdn-images.farfetch-contents.com/34/07/68/77/34076877_68955679_480.jpg 480w",
+   "alt": "",
+   "w": 600,
+   "h": 800,
+   "section": "footer",
+   "sectionTestid": "product-image"
+  },
+  {
+   "src": "https://cdn-images.farfetch-contents.com/36/74/60/00/36746000_68904702_600.jpg",
+   "srcset": "https://cdn-images.farfetch-contents.com/36/74/60/00/36746000_68904702_600.jpg 600w, https://cdn-images.farfetch-contents.com/36/74/60/00/36746000_68904702_480.jpg 480w",
+   "alt": "",
+   "w": 600,
+   "h": 800,
+   "section": "footer",
+   "sectionTestid": "product-image"
+  },
+  {
+   "src": "https://cdn-images.farfetch-contents.com/33/79/18/11/33791811_68950015_600.jpg",
+   "srcset": "https://cdn-images.farfetch-contents.com/33/79/18/11/33791811_68950015_600.jpg 600w, https://cdn-images.farfetch-contents.com/33/79/18/11/33791811_68950015_480.jpg 480w",
+   "alt": "",
+   "w": 600,
+   "h": 800,
+   "section": "footer",
+   "sectionTestid": "product-image"
+  },
+  {
+   "src": "https://cdn-images.farfetch-contents.com/29/51/03/56/29510356_58551338_600.jpg",
+   "srcset": "https://cdn-images.farfetch-contents.com/29/51/03/56/29510356_58551338_600.jpg 600w, https://cdn-images.farfetch-contents.com/29/51/03/56/29510356_58551338_480.jpg 480w",
+   "alt": "",
+   "w": 600,
+   "h": 801,
+   "section": "footer",
+   "sectionTestid": "product-image"
+  },
+  {
+   "src": "https://cdn-images.farfetch-contents.com/34/02/60/09/34026009_65166053_600.jpg",
+   "srcset": "https://cdn-images.farfetch-contents.com/34/02/60/09/34026009_65166053_600.jpg 600w, https://cdn-images.farfetch-contents.com/34/02/60/09/34026009_65166053_480.jpg 480w",
+   "alt": "",
+   "w": 600,
+   "h": 801,
+   "section": "footer",
+   "sectionTestid": "product-image"
+  },
+  {
+   "src": "https://cdn-images.farfetch-contents.com/32/46/28/98/32462898_65689799_600.jpg",
+   "srcset": "https://cdn-images.farfetch-contents.com/32/46/28/98/32462898_65689799_600.jpg 600w, https://cdn-images.farfetch-contents.com/32/46/28/98/32462898_65689799_480.jpg 480w",
+   "alt": "",
+   "w": 600,
+   "h": 800,
+   "section": "footer",
+   "sectionTestid": "product-image"
+  },
+  {
+   "src": "https://cdn-images.farfetch-contents.com/34/76/61/94/34766194_66105996_600.jpg",
+   "srcset": "https://cdn-images.farfetch-contents.com/34/76/61/94/34766194_66105996_600.jpg 600w, https://cdn-images.farfetch-contents.com/34/76/61/94/34766194_66105996_480.jpg 480w",
+   "alt": "",
+   "w": 600,
+   "h": 800,
+   "section": "footer",
+   "sectionTestid": "product-image"
+  },
+  {
+   "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682176/data/f883fbd190693fed08b5ea7c834fcb76/3x4_four-columns/480/2026-05-25-mw-webapp-casablanca-vacation-casablanca-multicategory-img.jpeg",
+   "srcset": null,
+   "alt": "",
+   "w": 480,
+   "h": 640,
+   "section": "footer",
+   "sectionTestid": "editorial-featured-media"
+  },
+  {
+   "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682326/data/e4e5215d116f5e5ea7400e436a0d224f/3x4_four-columns/480/2026-05-25-mw-webapp-jackets-vacation-multibrand-jackets-img.jpeg",
+   "srcset": null,
+   "alt": "",
+   "w": 480,
+   "h": 640,
+   "section": "footer",
+   "sectionTestid": "editorial-featured-media"
+  },
+  {
+   "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682258/data/ceacf3ffd70280b202c4e60a3e526819/3x4_four-columns/480/2026-05-25-mw-webapp-luggage-holdalls-vacation-multibrand-multicategory-img.jpeg",
+   "srcset": null,
+   "alt": "",
+   "w": 480,
+   "h": 640,
+   "section": "footer",
+   "sectionTestid": "editorial-featured-media"
+  },
+  {
+   "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682290/data/eb59c81b18108a96ccd54a4d34479172/3x4_four-columns/480/2026-05-25-mw-webapp-shorts-vacation-multibrand-shorts-img.jpeg",
+   "srcset": null,
+   "alt": "",
+   "w": 480,
+   "h": 640,
+   "section": "footer",
+   "sectionTestid": "editorial-featured-media"
+  },
+  {
+   "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689362/data/c12eb97eddd514bddf97bf716ad63864/3x4/640/2026-06-01-mw-webapp-lardini-vacation-lardini-multicategory-img.jpeg",
+   "srcset": null,
+   "alt": "",
+   "w": 640,
+   "h": 853,
+   "section": "footer",
+   "sectionTestid": "premium-brands"
+  },
+  {
+   "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689366/data/1c2af6f0953033ac798223f2766be606/3x4/640/2026-06-01-mw-webapp-boggi-milano-vacation-boggi-milano-multicategory-img.jpeg",
+   "srcset": null,
+   "alt": "",
+   "w": 640,
+   "h": 853,
+   "section": "footer",
+   "sectionTestid": "premium-brands"
+  },
+  {
+   "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689370/data/7b4c96929ac4ef69b0e09503b8d67d97/3x4/640/2026-06-01-mw-webapp-maniere-de-voir-vacation-maniere-de-voir-multicategory-img.jpeg",
+   "srcset": null,
+   "alt": "",
+   "w": 640,
+   "h": 853,
+   "section": "footer",
+   "sectionTestid": "premium-brands"
+  }
+ ],
+ "count": 16
+}

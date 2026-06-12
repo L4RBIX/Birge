@@ -1,0 +1,50 @@
+{
+ "pay": [
+  {
+   "type": "svg",
+   "html": "<svg data-component=\"PaymentBoxedLogo\" class=\"ltr-2ghw7z\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-fixed-ratio_americanExpress\"></use></svg>",
+   "aria": "American Express"
+  },
+  {
+   "type": "svg",
+   "html": "<svg data-component=\"PaymentBoxedLogo\" class=\"ltr-2ghw7z\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-fixed-ratio_mastercard\"></use></svg>",
+   "aria": "mastercard"
+  },
+  {
+   "type": "svg",
+   "html": "<svg data-component=\"PaymentBoxedLogo\" class=\"ltr-2ghw7z\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-fixed-ratio_visa\"></use></svg>",
+   "aria": "Visa"
+  },
+  {
+   "type": "svg",
+   "html": "<svg data-component=\"PaymentBoxedLogo\" class=\"ltr-2ghw7z\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-fixed-ratio_paypalSecondary\"></use></svg>",
+   "aria": "PayPal"
+  }
+ ],
+ "social": [
+  {
+   "aria": "instagram",
+   "href": "https://instagram.com/farfetch",
+   "tag": "svg",
+   "html": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-instagram\"></use></svg>"
+  },
+  {
+   "aria": "tikTok",
+   "href": "https://www.tiktok.com/@farfetch",
+   "tag": "svg",
+   "html": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-tikTok\"></use></svg>"
+  },
+  {
+   "aria": "facebook",
+   "href": "https://www.facebook.com/Farfetch/",
+   "tag": "svg",
+   "html": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-facebook\"></use></svg>"
+  },
+  {
+   "aria": "youtube",
+   "href": "https://www.youtube.com/user/farfetchdotcom",
+   "tag": "svg",
+   "html": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-youtube\"></use></svg>"
+  }
+ ]
+}

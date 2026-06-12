@@ -1,0 +1,1391 @@
+{
+ "tag": "div",
+ "testid": "custom-module-wrapper",
+ "rect": {
+  "x": 24,
+  "y": 1162,
+  "w": 1392,
+  "h": 673
+ },
+ "styles": {
+  "fontSize": "15px",
+  "fontWeight": "400",
+  "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+  "lineHeight": "19.9995px",
+  "color": "rgb(34, 34, 34)",
+  "width": "1392px",
+  "height": "672.984px",
+  "display": "flex",
+  "justifyContent": "center",
+  "flex": "0 1 auto",
+  "border": "0px none rgb(34, 34, 34)",
+  "borderTop": "0px none rgb(34, 34, 34)",
+  "borderBottom": "0px none rgb(34, 34, 34)",
+  "transition": "all",
+  "objectFit": "fill",
+  "textOverflow": "clip",
+  "textAlign": "start",
+  "verticalAlign": "baseline"
+ },
+ "children": [
+  {
+   "tag": "section",
+   "testid": "product-list-container",
+   "rect": {
+    "x": 24,
+    "y": 1162,
+    "w": 1392,
+    "h": 673
+   },
+   "styles": {
+    "fontSize": "15px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "lineHeight": "19.9995px",
+    "color": "rgb(34, 34, 34)",
+    "paddingTop": "48px",
+    "paddingBottom": "24px",
+    "width": "1392px",
+    "height": "672.984px",
+    "display": "block",
+    "flex": "0 1 auto",
+    "border": "0px none rgb(34, 34, 34)",
+    "borderTop": "0px none rgb(34, 34, 34)",
+    "borderBottom": "0px none rgb(34, 34, 34)",
+    "transition": "all",
+    "objectFit": "fill",
+    "textOverflow": "clip",
+    "textAlign": "start",
+    "verticalAlign": "baseline"
+   },
+   "children": [
+    {
+     "tag": "div",
+     "rect": {
+      "x": 24,
+      "y": 1210,
+      "w": 1392,
+      "h": 601
+     },
+     "styles": {
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "19.9995px",
+      "color": "rgb(34, 34, 34)",
+      "width": "1392px",
+      "height": "600.984px",
+      "maxWidth": "1440px",
+      "display": "grid",
+      "gap": "12px",
+      "flex": "0 1 auto",
+      "gridTemplateColumns": "1273.56px 106.438px",
+      "border": "0px none rgb(34, 34, 34)",
+      "borderTop": "0px none rgb(34, 34, 34)",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "position": "relative",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "clip",
+      "textAlign": "start",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "div",
+       "rect": {
+        "x": 24,
+        "y": 1210,
+        "w": 1274,
+        "h": 32
+       },
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "width": "1273.56px",
+        "height": "32px",
+        "minHeight": "32px",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "center",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "h2",
+         "rect": {
+          "x": 24,
+          "y": 1212,
+          "w": 1274,
+          "h": 28
+         },
+         "text": "New in: handpicked daily from the world’s best brands and boutiques",
+         "styles": {
+          "fontSize": "22px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "27.9994px",
+          "color": "rgb(34, 34, 34)",
+          "width": "1273.56px",
+          "height": "27.9844px",
+          "display": "block",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": []
+        }
+       ]
+      },
+      {
+       "tag": "div",
+       "rect": {
+        "x": 24,
+        "y": 1254,
+        "w": 1392,
+        "h": 557
+       },
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "width": "1392px",
+        "height": "556.984px",
+        "display": "grid",
+        "gap": "36px 16px",
+        "flex": "0 1 auto",
+        "gridTemplateColumns": "336px 336px 336px 336px",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "article",
+         "testid": "product-card",
+         "rect": {
+          "x": 24,
+          "y": 1254,
+          "w": 336,
+          "h": 557
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "width": "336px",
+          "height": "556.984px",
+          "display": "grid",
+          "flex": "0 1 auto",
+          "gridTemplateColumns": "336px",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "div",
+           "rect": {
+            "x": 24,
+            "y": 1254,
+            "w": 336,
+            "h": 557
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "width": "336px",
+            "height": "556.984px",
+            "display": "grid",
+            "flex": "0 1 auto",
+            "gridTemplateColumns": "336px",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "position": "relative",
+            "transition": "all",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "a",
+             "href": "/kz/shopping/men/versace-striped-cotton-jersey-t-shirt-item-36281346.aspx",
+             "rect": {
+              "x": 24,
+              "y": 1254,
+              "w": 336,
+              "h": 557
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "336px",
+              "height": "556.984px",
+              "display": "grid",
+              "flex": "0 1 auto",
+              "gridTemplateColumns": "336px",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "position": "relative",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "rect": {
+                "x": 24,
+                "y": 1254,
+                "w": 336,
+                "h": 448
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "336px",
+                "height": "448px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "position": "relative",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              },
+              {
+               "tag": "div",
+               "rect": {
+                "x": 24,
+                "y": 1708,
+                "w": 336,
+                "h": 103
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "marginTop": "6px",
+                "width": "336px",
+                "height": "102.984px",
+                "display": "grid",
+                "flex": "0 1 auto",
+                "gridTemplateColumns": "336px",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...7 children"
+               ]
+              }
+             ]
+            },
+            {
+             "tag": "button",
+             "aria": "Add to wishlist",
+             "rect": {
+              "x": 316,
+              "y": 1254,
+              "w": 44,
+              "h": 44
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "700",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "color": "rgb(34, 34, 34)",
+              "width": "44px",
+              "height": "44px",
+              "display": "flex",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "flex": "0 0 auto",
+              "border": "1px solid rgba(255, 255, 255, 0)",
+              "borderTop": "1px solid rgba(255, 255, 255, 0)",
+              "borderBottom": "1px solid rgba(255, 255, 255, 0)",
+              "position": "absolute",
+              "bottom": "512.984px",
+              "left": "292px",
+              "transition": "background-color 0.3s cubic-bezier(0, 0, 0, 1), border-color 0.3s cubic-bezier(0, 0, 0, 1), opacity 0.3s cubic-bezier(0, 0, 0, 1), color 0.3s cubic-bezier(0, 0, 0, 1)",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "center",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "svg",
+               "rect": {
+                "x": 326,
+                "y": 1264,
+                "w": 24,
+                "h": 24
+               },
+               "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heart\"></use></svg>",
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "700",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "24px",
+                "height": "24px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "position": "absolute",
+                "top": "9px",
+                "right": "9px",
+                "bottom": "9px",
+                "left": "9px",
+                "transition": "opacity 0.3s cubic-bezier(0, 0, 0, 1), fill 0.3s cubic-bezier(0, 0, 0, 1)",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "center",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              },
+              {
+               "tag": "svg",
+               "rect": {
+                "x": 326,
+                "y": 1264,
+                "w": 24,
+                "h": 24
+               },
+               "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heartFill\"></use></svg>",
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "700",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "24px",
+                "height": "24px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "position": "absolute",
+                "top": "9px",
+                "right": "9px",
+                "bottom": "9px",
+                "left": "9px",
+                "opacity": "0",
+                "transition": "opacity 0.3s cubic-bezier(0, 0, 0, 1), fill 0.3s cubic-bezier(0, 0, 0, 1)",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "center",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "article",
+         "testid": "product-card",
+         "rect": {
+          "x": 376,
+          "y": 1254,
+          "w": 336,
+          "h": 557
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "width": "336px",
+          "height": "556.984px",
+          "display": "grid",
+          "flex": "0 1 auto",
+          "gridTemplateColumns": "336px",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "div",
+           "rect": {
+            "x": 376,
+            "y": 1254,
+            "w": 336,
+            "h": 557
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "width": "336px",
+            "height": "556.984px",
+            "display": "grid",
+            "flex": "0 1 auto",
+            "gridTemplateColumns": "336px",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "position": "relative",
+            "transition": "all",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "a",
+             "href": "/kz/shopping/men/givenchy-tapered-baggy-jeans-item-34076877.aspx",
+             "rect": {
+              "x": 376,
+              "y": 1254,
+              "w": 336,
+              "h": 557
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "336px",
+              "height": "556.984px",
+              "display": "grid",
+              "flex": "0 1 auto",
+              "gridTemplateColumns": "336px",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "position": "relative",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "rect": {
+                "x": 376,
+                "y": 1254,
+                "w": 336,
+                "h": 448
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "336px",
+                "height": "448px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "position": "relative",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              },
+              {
+               "tag": "div",
+               "rect": {
+                "x": 376,
+                "y": 1708,
+                "w": 336,
+                "h": 103
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "marginTop": "6px",
+                "width": "336px",
+                "height": "102.984px",
+                "display": "grid",
+                "flex": "0 1 auto",
+                "gridTemplateColumns": "336px",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...7 children"
+               ]
+              }
+             ]
+            },
+            {
+             "tag": "button",
+             "aria": "Add to wishlist",
+             "rect": {
+              "x": 668,
+              "y": 1254,
+              "w": 44,
+              "h": 44
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "700",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "color": "rgb(34, 34, 34)",
+              "width": "44px",
+              "height": "44px",
+              "display": "flex",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "flex": "0 0 auto",
+              "border": "1px solid rgba(255, 255, 255, 0)",
+              "borderTop": "1px solid rgba(255, 255, 255, 0)",
+              "borderBottom": "1px solid rgba(255, 255, 255, 0)",
+              "position": "absolute",
+              "bottom": "512.984px",
+              "left": "292px",
+              "transition": "background-color 0.3s cubic-bezier(0, 0, 0, 1), border-color 0.3s cubic-bezier(0, 0, 0, 1), opacity 0.3s cubic-bezier(0, 0, 0, 1), color 0.3s cubic-bezier(0, 0, 0, 1)",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "center",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "svg",
+               "rect": {
+                "x": 678,
+                "y": 1264,
+                "w": 24,
+                "h": 24
+               },
+               "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heart\"></use></svg>",
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "700",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "24px",
+                "height": "24px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "position": "absolute",
+                "top": "9px",
+                "right": "9px",
+                "bottom": "9px",
+                "left": "9px",
+                "transition": "opacity 0.3s cubic-bezier(0, 0, 0, 1), fill 0.3s cubic-bezier(0, 0, 0, 1)",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "center",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              },
+              {
+               "tag": "svg",
+               "rect": {
+                "x": 678,
+                "y": 1264,
+                "w": 24,
+                "h": 24
+               },
+               "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heartFill\"></use></svg>",
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "700",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "24px",
+                "height": "24px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "position": "absolute",
+                "top": "9px",
+                "right": "9px",
+                "bottom": "9px",
+                "left": "9px",
+                "opacity": "0",
+                "transition": "opacity 0.3s cubic-bezier(0, 0, 0, 1), fill 0.3s cubic-bezier(0, 0, 0, 1)",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "center",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "article",
+         "testid": "product-card",
+         "rect": {
+          "x": 728,
+          "y": 1254,
+          "w": 336,
+          "h": 557
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "width": "336px",
+          "height": "556.984px",
+          "display": "grid",
+          "flex": "0 1 auto",
+          "gridTemplateColumns": "336px",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "div",
+           "rect": {
+            "x": 728,
+            "y": 1254,
+            "w": 336,
+            "h": 557
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "width": "336px",
+            "height": "556.984px",
+            "display": "grid",
+            "flex": "0 1 auto",
+            "gridTemplateColumns": "336px",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "position": "relative",
+            "transition": "all",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "a",
+             "href": "/kz/shopping/men/kenzo-logo-embroidered-baseball-cap-item-36746000.aspx",
+             "rect": {
+              "x": 728,
+              "y": 1254,
+              "w": 336,
+              "h": 557
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "336px",
+              "height": "556.984px",
+              "display": "grid",
+              "flex": "0 1 auto",
+              "gridTemplateColumns": "336px",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "position": "relative",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "rect": {
+                "x": 728,
+                "y": 1254,
+                "w": 336,
+                "h": 448
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "336px",
+                "height": "448px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "position": "relative",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              },
+              {
+               "tag": "div",
+               "rect": {
+                "x": 728,
+                "y": 1708,
+                "w": 336,
+                "h": 103
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "marginTop": "6px",
+                "width": "336px",
+                "height": "102.984px",
+                "display": "grid",
+                "flex": "0 1 auto",
+                "gridTemplateColumns": "336px",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...7 children"
+               ]
+              }
+             ]
+            },
+            {
+             "tag": "button",
+             "aria": "Add to wishlist",
+             "rect": {
+              "x": 1020,
+              "y": 1254,
+              "w": 44,
+              "h": 44
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "700",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "color": "rgb(34, 34, 34)",
+              "width": "44px",
+              "height": "44px",
+              "display": "flex",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "flex": "0 0 auto",
+              "border": "1px solid rgba(255, 255, 255, 0)",
+              "borderTop": "1px solid rgba(255, 255, 255, 0)",
+              "borderBottom": "1px solid rgba(255, 255, 255, 0)",
+              "position": "absolute",
+              "bottom": "512.984px",
+              "left": "292px",
+              "transition": "background-color 0.3s cubic-bezier(0, 0, 0, 1), border-color 0.3s cubic-bezier(0, 0, 0, 1), opacity 0.3s cubic-bezier(0, 0, 0, 1), color 0.3s cubic-bezier(0, 0, 0, 1)",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "center",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "svg",
+               "rect": {
+                "x": 1030,
+                "y": 1264,
+                "w": 24,
+                "h": 24
+               },
+               "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heart\"></use></svg>",
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "700",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "24px",
+                "height": "24px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "position": "absolute",
+                "top": "9px",
+                "right": "9px",
+                "bottom": "9px",
+                "left": "9px",
+                "transition": "opacity 0.3s cubic-bezier(0, 0, 0, 1), fill 0.3s cubic-bezier(0, 0, 0, 1)",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "center",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              },
+              {
+               "tag": "svg",
+               "rect": {
+                "x": 1030,
+                "y": 1264,
+                "w": 24,
+                "h": 24
+               },
+               "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heartFill\"></use></svg>",
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "700",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "24px",
+                "height": "24px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "position": "absolute",
+                "top": "9px",
+                "right": "9px",
+                "bottom": "9px",
+                "left": "9px",
+                "opacity": "0",
+                "transition": "opacity 0.3s cubic-bezier(0, 0, 0, 1), fill 0.3s cubic-bezier(0, 0, 0, 1)",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "center",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "article",
+         "testid": "product-card",
+         "rect": {
+          "x": 1080,
+          "y": 1254,
+          "w": 336,
+          "h": 557
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "width": "336px",
+          "height": "556.984px",
+          "display": "grid",
+          "flex": "0 1 auto",
+          "gridTemplateColumns": "336px",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": [
+          {
+           "tag": "div",
+           "rect": {
+            "x": 1080,
+            "y": 1254,
+            "w": 336,
+            "h": 557
+           },
+           "styles": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+            "lineHeight": "19.9995px",
+            "color": "rgb(34, 34, 34)",
+            "backgroundColor": "rgb(255, 255, 255)",
+            "width": "336px",
+            "height": "556.984px",
+            "display": "grid",
+            "flex": "0 1 auto",
+            "gridTemplateColumns": "336px",
+            "border": "0px none rgb(34, 34, 34)",
+            "borderTop": "0px none rgb(34, 34, 34)",
+            "borderBottom": "0px none rgb(34, 34, 34)",
+            "position": "relative",
+            "transition": "all",
+            "objectFit": "fill",
+            "textOverflow": "clip",
+            "textAlign": "start",
+            "verticalAlign": "baseline"
+           },
+           "children": [
+            {
+             "tag": "a",
+             "href": "/kz/shopping/men/nn07-ben-check-pattern-shirt-item-33791811.aspx",
+             "rect": {
+              "x": 1080,
+              "y": 1254,
+              "w": 336,
+              "h": 557
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "lineHeight": "19.9995px",
+              "color": "rgb(34, 34, 34)",
+              "width": "336px",
+              "height": "556.984px",
+              "display": "grid",
+              "flex": "0 1 auto",
+              "gridTemplateColumns": "336px",
+              "border": "0px none rgb(34, 34, 34)",
+              "borderTop": "0px none rgb(34, 34, 34)",
+              "borderBottom": "0px none rgb(34, 34, 34)",
+              "position": "relative",
+              "transition": "all",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "start",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "rect": {
+                "x": 1080,
+                "y": 1254,
+                "w": 336,
+                "h": 448
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "width": "336px",
+                "height": "448px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "position": "relative",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              },
+              {
+               "tag": "div",
+               "rect": {
+                "x": 1080,
+                "y": 1708,
+                "w": 336,
+                "h": 103
+               },
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "lineHeight": "19.9995px",
+                "color": "rgb(34, 34, 34)",
+                "marginTop": "6px",
+                "width": "336px",
+                "height": "102.984px",
+                "display": "grid",
+                "flex": "0 1 auto",
+                "gridTemplateColumns": "336px",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "transition": "all",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "start",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...7 children"
+               ]
+              }
+             ]
+            },
+            {
+             "tag": "button",
+             "aria": "Add to wishlist",
+             "rect": {
+              "x": 1372,
+              "y": 1254,
+              "w": 44,
+              "h": 44
+             },
+             "styles": {
+              "fontSize": "15px",
+              "fontWeight": "700",
+              "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+              "color": "rgb(34, 34, 34)",
+              "width": "44px",
+              "height": "44px",
+              "display": "flex",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "flex": "0 0 auto",
+              "border": "1px solid rgba(255, 255, 255, 0)",
+              "borderTop": "1px solid rgba(255, 255, 255, 0)",
+              "borderBottom": "1px solid rgba(255, 255, 255, 0)",
+              "position": "absolute",
+              "bottom": "512.984px",
+              "left": "292px",
+              "transition": "background-color 0.3s cubic-bezier(0, 0, 0, 1), border-color 0.3s cubic-bezier(0, 0, 0, 1), opacity 0.3s cubic-bezier(0, 0, 0, 1), color 0.3s cubic-bezier(0, 0, 0, 1)",
+              "cursor": "pointer",
+              "objectFit": "fill",
+              "textOverflow": "clip",
+              "textAlign": "center",
+              "verticalAlign": "baseline"
+             },
+             "children": [
+              {
+               "tag": "svg",
+               "rect": {
+                "x": 1382,
+                "y": 1264,
+                "w": 24,
+                "h": 24
+               },
+               "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heart\"></use></svg>",
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "700",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "24px",
+                "height": "24px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "position": "absolute",
+                "top": "9px",
+                "right": "9px",
+                "bottom": "9px",
+                "left": "9px",
+                "transition": "opacity 0.3s cubic-bezier(0, 0, 0, 1), fill 0.3s cubic-bezier(0, 0, 0, 1)",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "center",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              },
+              {
+               "tag": "svg",
+               "rect": {
+                "x": 1382,
+                "y": 1264,
+                "w": 24,
+                "h": 24
+               },
+               "svg": "<svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-heartFill\"></use></svg>",
+               "styles": {
+                "fontSize": "15px",
+                "fontWeight": "700",
+                "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+                "color": "rgb(34, 34, 34)",
+                "width": "24px",
+                "height": "24px",
+                "display": "block",
+                "flex": "0 1 auto",
+                "border": "0px none rgb(34, 34, 34)",
+                "borderTop": "0px none rgb(34, 34, 34)",
+                "borderBottom": "0px none rgb(34, 34, 34)",
+                "overflow": "hidden",
+                "overflowX": "hidden",
+                "position": "absolute",
+                "top": "9px",
+                "right": "9px",
+                "bottom": "9px",
+                "left": "9px",
+                "opacity": "0",
+                "transition": "opacity 0.3s cubic-bezier(0, 0, 0, 1), fill 0.3s cubic-bezier(0, 0, 0, 1)",
+                "cursor": "pointer",
+                "objectFit": "fill",
+                "textOverflow": "clip",
+                "textAlign": "center",
+                "verticalAlign": "baseline"
+               },
+               "children": [
+                "...1 children"
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "tag": "div",
+       "rect": {
+        "x": 1310,
+        "y": 1210,
+        "w": 106,
+        "h": 32
+       },
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "width": "106.438px",
+        "height": "32px",
+        "display": "flex",
+        "justifyContent": "flex-end",
+        "alignItems": "flex-end",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "a",
+         "href": "/kz/sets/new-in-this-week-eu-men.aspx",
+         "rect": {
+          "x": 1310,
+          "y": 1210,
+          "w": 106,
+          "h": 32
+         },
+         "text": "Shop Now",
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "700",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "paddingTop": "4px",
+          "paddingRight": "16px",
+          "paddingBottom": "4px",
+          "paddingLeft": "16px",
+          "width": "106.438px",
+          "height": "32px",
+          "minHeight": "32px",
+          "display": "flex",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "flex": "0 1 auto",
+          "border": "1px solid rgb(34, 34, 34)",
+          "borderTop": "1px solid rgb(34, 34, 34)",
+          "borderBottom": "1px solid rgb(34, 34, 34)",
+          "position": "relative",
+          "transition": "background-color 0.3s cubic-bezier(0, 0, 0, 1), border-color 0.3s cubic-bezier(0, 0, 0, 1), opacity 0.3s cubic-bezier(0, 0, 0, 1), color 0.3s cubic-bezier(0, 0, 0, 1)",
+          "cursor": "pointer",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

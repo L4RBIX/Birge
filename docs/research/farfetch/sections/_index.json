@@ -1,0 +1,56 @@
+[
+  {
+    "i": 0,
+    "testid": "hero-container",
+    "h": 1008,
+    "text": "Whatever the occasion\n\nFor summer weddings, garden"
+  },
+  {
+    "i": 1,
+    "testid": "custom-module-wrapper",
+    "h": 673,
+    "text": "New in: handpicked daily from the world’s best bra"
+  },
+  {
+    "i": 2,
+    "testid": "custom-module-container",
+    "h": 892,
+    "text": ""
+  },
+  {
+    "i": 3,
+    "testid": "custom-module-container",
+    "h": 656,
+    "text": "Trending now\nSPOTLIGHT ON CASABLANCA\nTHE JACKET UP"
+  },
+  {
+    "i": 4,
+    "testid": "custom-module-container",
+    "h": 892,
+    "text": ""
+  },
+  {
+    "i": 5,
+    "testid": "custom-module-wrapper",
+    "h": 723,
+    "text": "Brands of the moment\n\nLardini\n\nBoggi Milano\n\nManiè"
+  },
+  {
+    "i": 6,
+    "testid": null,
+    "h": 110,
+    "text": "HOW TO SHOP\n\nYour guide to shopping and placing or"
+  },
+  {
+    "i": 7,
+    "testid": null,
+    "h": 110,
+    "text": "FAQS\n\nYour questions answered"
+  },
+  {
+    "i": 8,
+    "testid": null,
+    "h": 110,
+    "text": "NEED HELP?\n\nContact our global Customer Service te"
+  }
+]

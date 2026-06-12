@@ -1,0 +1,200 @@
+{
+  "tablet": {
+    "headerH": 68,
+    "headerAria": [
+      "Navigation menu",
+      "search",
+      "FARFETCH homepage.",
+      "Wishlist 0 items.",
+      "Bag 0 items."
+    ],
+    "headerText": "",
+    "heroImgs": [
+      {
+        "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689974/data/9ad0aa63fe62e78615810c069fdec03a/3x4_messaging-side/936/2026-06-08-mw-webapp-nh-",
+        "w": 936
+      }
+    ],
+    "productImgXs": [
+      24,
+      237,
+      449,
+      662
+    ],
+    "sections": [
+      {
+        "testid": "hero-container",
+        "h": 1256,
+        "w": 720,
+        "text": "Whatever the occasion\n\nFor summer weddin"
+      },
+      {
+        "testid": "custom-module-wrapper",
+        "h": 569,
+        "w": 720,
+        "text": "New in: handpicked daily from the world’"
+      },
+      {
+        "testid": "custom-module-container",
+        "h": 1237,
+        "w": 720,
+        "text": ""
+      },
+      {
+        "testid": "custom-module-container",
+        "h": 1200,
+        "w": 720,
+        "text": "Trending now\nSPOTLIGHT ON CASABLANCA\nTHE"
+      },
+      {
+        "testid": "custom-module-container",
+        "h": 1237,
+        "w": 720,
+        "text": ""
+      },
+      {
+        "testid": "custom-module-wrapper",
+        "h": 495,
+        "w": 720,
+        "text": "Brands of the moment\n\n1 of 3\n\nLardini\n\n2"
+      },
+      {
+        "testid": null,
+        "h": 110,
+        "w": 720,
+        "text": "HOW TO SHOP\n\nYour guide to shopping and "
+      },
+      {
+        "testid": null,
+        "h": 110,
+        "w": 720,
+        "text": "FAQS\n\nYour questions answered"
+      },
+      {
+        "testid": null,
+        "h": 110,
+        "w": 720,
+        "text": "NEED HELP?\n\nContact our global Customer "
+      }
+    ],
+    "bodyW": 768,
+    "pageH": 7593,
+    "headerAfterScrollDown": {
+      "transform": "none",
+      "top": 0,
+      "position": "sticky"
+    },
+    "headerAfterScrollUp": {
+      "transform": "none",
+      "top": 0
+    }
+  },
+  "mobile": {
+    "headerH": 44,
+    "headerAria": [
+      "Navigation menu",
+      "search",
+      "FARFETCH homepage.",
+      "Wishlist 0 items.",
+      "Bag 0 items."
+    ],
+    "headerText": "",
+    "heroImgs": [
+      {
+        "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689974/data/9ad0aa63fe62e78615810c069fdec03a/3x4_messaging-side/576/2026-06-08-mw-webapp-nh-",
+        "w": 576
+      }
+    ],
+    "productImgXs": [
+      16,
+      265,
+      515,
+      764,
+      16,
+      265
+    ],
+    "sections": [
+      {
+        "testid": "hero-container",
+        "h": 809,
+        "w": 358,
+        "text": "Whatever the occasion\n\nFor summer weddin"
+      },
+      {
+        "testid": "custom-module-wrapper",
+        "h": 631,
+        "w": 358,
+        "text": "New in: handpicked daily from the world’"
+      },
+      {
+        "testid": "custom-module-container",
+        "h": 941,
+        "w": 358,
+        "text": ""
+      },
+      {
+        "testid": "custom-module-wrapper",
+        "h": 620,
+        "w": 358,
+        "text": "20% off sale items\nSkip Carousel\n1 of 4\n"
+      },
+      {
+        "testid": "custom-module-container",
+        "h": 491,
+        "w": 358,
+        "text": "Trending now\nSPOTLIGHT ON CASABLANCA\nTHE"
+      },
+      {
+        "testid": "custom-module-container",
+        "h": 941,
+        "w": 358,
+        "text": ""
+      },
+      {
+        "testid": "custom-module-wrapper",
+        "h": 410,
+        "w": 358,
+        "text": "Brands of the moment\n\n1 of 3\n\nLardini\n\n2"
+      },
+      {
+        "testid": null,
+        "h": 110,
+        "w": 358,
+        "text": "HOW TO SHOP\n\nYour guide to shopping and "
+      },
+      {
+        "testid": null,
+        "h": 110,
+        "w": 358,
+        "text": "FAQS\n\nYour questions answered"
+      },
+      {
+        "testid": null,
+        "h": 110,
+        "w": 358,
+        "text": "NEED HELP?\n\nContact our global Customer "
+      }
+    ],
+    "bodyW": 390,
+    "pageH": 6604,
+    "headerAfterScrollDown": {
+      "transform": "none",
+      "top": 0,
+      "position": "sticky"
+    },
+    "headerAfterScrollUp": {
+      "transform": "none",
+      "top": 0
+    }
+  },
+  "desktopHeaderScrollDown": {
+    "transform": "none",
+    "top": 0,
+    "boxShadow": "none"
+  },
+  "desktopHeaderScrollUp": {
+    "transform": "none",
+    "top": 0,
+    "boxShadow": "none"
+  }
+}

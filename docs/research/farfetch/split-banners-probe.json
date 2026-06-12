@@ -1,0 +1,427 @@
+{
+ "banners": [
+  {
+   "shadowHosts": [],
+   "imgs": [],
+   "sources": [],
+   "bgs": [],
+   "links": [],
+   "texts": [],
+   "h": 892,
+   "html0": "<div data-component=\"CustomModuleWrapper\" data-testid=\"custom-module-wrapper\" class=\"ltr-lsc44t e1rz3m3e0\"><div data-testid=\"editorial-post-list\" data-component=\"EditorialPostList\" class=\"_ac3939\"><div class=\"_ea6d71 _cf4a41 _ff694a\"><div metadata=\"[object Object]\" data-component=\"Ads\" class=\"ltr-amxxzb\"><div id=\"men_homepage_two_column\" data-google-query-id=\"CNq5lePS_pQDFVlGHgIdqJYAMQ\" style=\"padding-bottom: 116.364%;\"><div id=\"google_ads_iframe_/28275802/men_homepage_two_column_0__container__\" style=\"border: 0pt; display: inline-block; width: 660px; height: 768px;\"><iframe frameborder=\"0\" src=\"https://e170282b7efb2a3a420fe23e6e0e9289.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html\" id=\"google_ads_iframe_/28275802/men_homepage_two_column_0\" title=\"3rd party ad content"
+  },
+  {
+   "shadowHosts": [],
+   "imgs": [
+    {
+     "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682176/data/f883fbd190693fed08b5ea7c834fcb76/3x4_four-columns/480/2026-05-25-mw-webapp-casablanca-vacation-casablanca-multicategory-img.jpeg",
+     "srcset": "",
+     "w": 480,
+     "h": 640
+    },
+    {
+     "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682326/data/e4e5215d116f5e5ea7400e436a0d224f/3x4_four-columns/480/2026-05-25-mw-webapp-jackets-vacation-multibrand-jackets-img.jpeg",
+     "srcset": "",
+     "w": 480,
+     "h": 640
+    },
+    {
+     "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682258/data/ceacf3ffd70280b202c4e60a3e526819/3x4_four-columns/480/2026-05-25-mw-webapp-luggage-holdalls-vacation-multibrand-multicategory-img.jpeg",
+     "srcset": "",
+     "w": 480,
+     "h": 640
+    },
+    {
+     "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682290/data/eb59c81b18108a96ccd54a4d34479172/3x4_four-columns/480/2026-05-25-mw-webapp-shorts-vacation-multibrand-shorts-img.jpeg",
+     "srcset": "",
+     "w": 480,
+     "h": 640
+    }
+   ],
+   "sources": [
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682176/data/f883fbd190693fed08b5ea7c834fcb76/3x4_four-columns/480/2026-05-25-mw-webapp-casablanca-vacation-casablanca-multicategory-img.jpeg",
+     "media": "(min-width: 1800px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682176/data/f883fbd190693fed08b5ea7c834fcb76/3x4_four-columns/480/2026-05-25-mw-webapp-casablanca-vacation-casablanca-multicategory-img.jpeg",
+     "media": "(min-width: 1280px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682176/data/f883fbd190693fed08b5ea7c834fcb76/3x4_four-columns/480/2026-05-25-mw-webapp-casablanca-vacation-casablanca-multicategory-img.jpeg",
+     "media": "(min-width: 960px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682176/data/f883fbd190693fed08b5ea7c834fcb76/3x4_four-columns/480/2026-05-25-mw-webapp-casablanca-vacation-casablanca-multicategory-img.jpeg",
+     "media": "(min-width: 576px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682176/data/f883fbd190693fed08b5ea7c834fcb76/3x4_four-columns/480/2026-05-25-mw-webapp-casablanca-vacation-casablanca-multicategory-img.jpeg",
+     "media": "(min-width: 320px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682326/data/e4e5215d116f5e5ea7400e436a0d224f/3x4_four-columns/480/2026-05-25-mw-webapp-jackets-vacation-multibrand-jackets-img.jpeg",
+     "media": "(min-width: 1800px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682326/data/e4e5215d116f5e5ea7400e436a0d224f/3x4_four-columns/480/2026-05-25-mw-webapp-jackets-vacation-multibrand-jackets-img.jpeg",
+     "media": "(min-width: 1280px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682326/data/e4e5215d116f5e5ea7400e436a0d224f/3x4_four-columns/480/2026-05-25-mw-webapp-jackets-vacation-multibrand-jackets-img.jpeg",
+     "media": "(min-width: 960px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682326/data/e4e5215d116f5e5ea7400e436a0d224f/3x4_four-columns/480/2026-05-25-mw-webapp-jackets-vacation-multibrand-jackets-img.jpeg",
+     "media": "(min-width: 576px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682326/data/e4e5215d116f5e5ea7400e436a0d224f/3x4_four-columns/480/2026-05-25-mw-webapp-jackets-vacation-multibrand-jackets-img.jpeg",
+     "media": "(min-width: 320px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682258/data/ceacf3ffd70280b202c4e60a3e526819/3x4_four-columns/480/2026-05-25-mw-webapp-luggage-holdalls-vacation-multibrand-multicategory-img.jpeg",
+     "media": "(min-width: 1800px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682258/data/ceacf3ffd70280b202c4e60a3e526819/3x4_four-columns/480/2026-05-25-mw-webapp-luggage-holdalls-vacation-multibrand-multicategory-img.jpeg",
+     "media": "(min-width: 1280px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682258/data/ceacf3ffd70280b202c4e60a3e526819/3x4_four-columns/480/2026-05-25-mw-webapp-luggage-holdalls-vacation-multibrand-multicategory-img.jpeg",
+     "media": "(min-width: 960px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682258/data/ceacf3ffd70280b202c4e60a3e526819/3x4_four-columns/480/2026-05-25-mw-webapp-luggage-holdalls-vacation-multibrand-multicategory-img.jpeg",
+     "media": "(min-width: 576px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682258/data/ceacf3ffd70280b202c4e60a3e526819/3x4_four-columns/480/2026-05-25-mw-webapp-luggage-holdalls-vacation-multibrand-multicategory-img.jpeg",
+     "media": "(min-width: 320px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682290/data/eb59c81b18108a96ccd54a4d34479172/3x4_four-columns/480/2026-05-25-mw-webapp-shorts-vacation-multibrand-shorts-img.jpeg",
+     "media": "(min-width: 1800px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682290/data/eb59c81b18108a96ccd54a4d34479172/3x4_four-columns/480/2026-05-25-mw-webapp-shorts-vacation-multibrand-shorts-img.jpeg",
+     "media": "(min-width: 1280px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682290/data/eb59c81b18108a96ccd54a4d34479172/3x4_four-columns/480/2026-05-25-mw-webapp-shorts-vacation-multibrand-shorts-img.jpeg",
+     "media": "(min-width: 960px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682290/data/eb59c81b18108a96ccd54a4d34479172/3x4_four-columns/480/2026-05-25-mw-webapp-shorts-vacation-multibrand-shorts-img.jpeg",
+     "media": "(min-width: 576px)"
+    },
+    {
+     "srcset": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682290/data/eb59c81b18108a96ccd54a4d34479172/3x4_four-columns/480/2026-05-25-mw-webapp-shorts-vacation-multibrand-shorts-img.jpeg",
+     "media": "(min-width: 320px)"
+    }
+   ],
+   "bgs": [],
+   "links": [
+    {
+     "text": "SPOTLIGHT ON CASABLANCA",
+     "href": "/kz/shopping/men/casablanca/items.aspx"
+    },
+    {
+     "text": "THE JACKET UPDATE",
+     "href": "/kz/shopping/men/jackets-2/items.aspx"
+    },
+    {
+     "text": "AIRPORT STAPLES",
+     "href": "/kz/sets/men/airport-essentials.aspx"
+    },
+    {
+     "text": "HOW TO STYLE SHORTS",
+     "href": "/kz/sets/men/how-to-style-shorts-for-men.aspx"
+    }
+   ],
+   "texts": [
+    {
+     "tag": "h2",
+     "text": "Trending now",
+     "fs": "22px",
+     "ff": "\"Farfetch Basis\", \"Helvetica N",
+     "color": "rgb(34, 34, 34)",
+     "align": "center"
+    },
+    {
+     "tag": "h2",
+     "text": "Spotlight on Casablanca",
+     "fs": "15px",
+     "ff": "\"Farfetch Basis\", \"Helvetica N",
+     "color": "rgb(34, 34, 34)",
+     "align": "left"
+    },
+    {
+     "tag": "h2",
+     "text": "The jacket update",
+     "fs": "15px",
+     "ff": "\"Farfetch Basis\", \"Helvetica N",
+     "color": "rgb(34, 34, 34)",
+     "align": "left"
+    },
+    {
+     "tag": "h2",
+     "text": "Airport staples",
+     "fs": "15px",
+     "ff": "\"Farfetch Basis\", \"Helvetica N",
+     "color": "rgb(34, 34, 34)",
+     "align": "left"
+    },
+    {
+     "tag": "h2",
+     "text": "How to style shorts",
+     "fs": "15px",
+     "ff": "\"Farfetch Basis\", \"Helvetica N",
+     "color": "rgb(34, 34, 34)",
+     "align": "left"
+    }
+   ],
+   "h": 656,
+   "html0": "<div class=\"_f8fc2c\"><h2 class=\"_d699d4 _c9ba01 ltr-13a5og8-Title\" data-component=\"Title\">Trending now</h2></div><div data-component=\"CustomModuleWrapper\" data-testid=\"custom-module-wrapper\" class=\"ltr-lsc44t e1rz3m3e0\"><div class=\"_fbc6fa _d90ace\"><div data-testid=\"editorial-post-list\" data-component=\"EditorialPostList\" class=\"_ac3939 _b7680a _ea72be\"><article class=\"_cbb9f7 _ea6d71 _cc9418 _eb1184 _f5266a\" data-testid=\"editorial-post\" data-component=\"EditorialPost\"><a href=\"/kz/shopping/men/casablanca/items.aspx\" aria-label=\"Spotlight on Casablanca\" target=\"_self\" title=\"Spotlight on Casablanca\" class=\"\" data-testid=\"editorial-link\" data-ffref=\"inspirationModule|10694840|3|06/08/2026 08:29:38|10682204|2|05/26/2026 07:49:34\"><div class=\"\"><div class=\"_d976b5 _fac71e\" data-testid=\"editoria"
+  },
+  {
+   "shadowHosts": [],
+   "imgs": [],
+   "sources": [],
+   "bgs": [],
+   "links": [],
+   "texts": [],
+   "h": 892,
+   "html0": "<div data-component=\"CustomModuleWrapper\" data-testid=\"custom-module-wrapper\" class=\"ltr-lsc44t e1rz3m3e0\"><div data-testid=\"editorial-post-list\" data-component=\"EditorialPostList\" class=\"_ac3939\"><div class=\"_ea6d71 _cf4a41 _ff694a\"><div metadata=\"[object Object]\" data-component=\"Ads\" class=\"ltr-amxxzb\"><div id=\"men_homepage_two_column_3\" data-google-query-id=\"CM2TlePS_pQDFTRZHgId8t83nQ\" style=\"padding-bottom: 116.364%;\"><div id=\"google_ads_iframe_/28275802/men_homepage_two_column_3_0__container__\" style=\"border: 0pt; display: inline-block; width: 660px; height: 768px;\"><iframe frameborder=\"0\" src=\"https://e170282b7efb2a3a420fe23e6e0e9289.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html\" id=\"google_ads_iframe_/28275802/men_homepage_two_column_3_0\" title=\"3rd party ad c"
+  }
+ ],
+ "newsletter": {
+  "tag": "div",
+  "rect": {
+   "w": 1392,
+   "h": 248
+  },
+  "styles": {
+   "fontSize": "15px",
+   "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+   "fontWeight": "400",
+   "color": "rgb(34, 34, 34)",
+   "backgroundColor": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(34, 34, 34)",
+   "padding": "0px 0px 0px 0px",
+   "display": "grid",
+   "gap": "normal",
+   "width": "1392px",
+   "height": "247.922px",
+   "textDecoration": "none"
+  },
+  "children": [
+   {
+    "tag": "div",
+    "rect": {
+     "w": 1392,
+     "h": 248
+    },
+    "styles": {
+     "fontSize": "15px",
+     "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+     "fontWeight": "400",
+     "color": "rgb(34, 34, 34)",
+     "backgroundColor": "rgba(0, 0, 0, 0)",
+     "border": "0px none rgb(34, 34, 34)",
+     "padding": "0px 0px 0px 0px",
+     "display": "flex",
+     "gap": "normal",
+     "width": "1392px",
+     "height": "247.922px",
+     "textDecoration": "none"
+    },
+    "children": [
+     {
+      "tag": "div",
+      "rect": {
+       "w": 1392,
+       "h": 248
+      },
+      "styles": {
+       "fontSize": "15px",
+       "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+       "fontWeight": "400",
+       "color": "rgb(34, 34, 34)",
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "border": "0px none rgb(34, 34, 34)",
+       "padding": "0px 0px 0px 0px",
+       "display": "block",
+       "gap": "normal",
+       "width": "1392px",
+       "height": "247.922px",
+       "textDecoration": "none"
+      },
+      "children": [
+       {
+        "tag": "div",
+        "rect": {
+         "w": 1392,
+         "h": 248
+        },
+        "styles": {
+         "fontSize": "15px",
+         "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+         "fontWeight": "400",
+         "color": "rgb(34, 34, 34)",
+         "backgroundColor": "rgba(0, 0, 0, 0)",
+         "border": "0px none rgb(34, 34, 34)",
+         "padding": "0px 0px 0px 0px",
+         "display": "grid",
+         "gap": "24px",
+         "width": "1392px",
+         "height": "247.922px",
+         "textDecoration": "none"
+        },
+        "children": [
+         {
+          "tag": "div",
+          "rect": {
+           "w": 684,
+           "h": 248
+          },
+          "styles": {
+           "fontSize": "15px",
+           "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+           "fontWeight": "400",
+           "color": "rgb(34, 34, 34)",
+           "backgroundColor": "rgba(0, 0, 0, 0)",
+           "border": "0px none rgb(34, 34, 34)",
+           "padding": "0px 0px 0px 0px",
+           "display": "flex",
+           "gap": "12px",
+           "width": "684px",
+           "height": "247.922px",
+           "textDecoration": "none"
+          },
+          "children": [
+           {
+            "tag": "h3",
+            "rect": {
+             "w": 684,
+             "h": 38
+            },
+            "text": "Never miss a thing",
+            "styles": {
+             "fontSize": "30px",
+             "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+             "fontWeight": "400",
+             "color": "rgb(34, 34, 34)",
+             "backgroundColor": "rgba(0, 0, 0, 0)",
+             "border": "0px none rgb(34, 34, 34)",
+             "padding": "0px 0px 0px 0px",
+             "display": "block",
+             "gap": "normal",
+             "width": "684px",
+             "height": "38px",
+             "textDecoration": "none"
+            },
+            "children": []
+           },
+           {
+            "tag": "p",
+            "rect": {
+             "w": 684,
+             "h": 20
+            },
+            "text": "Sign up for promotions, tailored new arrivals, stock updates and more – straight to your inbox",
+            "styles": {
+             "fontSize": "15px",
+             "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+             "fontWeight": "400",
+             "color": "rgb(34, 34, 34)",
+             "backgroundColor": "rgba(0, 0, 0, 0)",
+             "border": "0px none rgb(34, 34, 34)",
+             "padding": "0px 0px 0px 0px",
+             "display": "block",
+             "gap": "normal",
+             "width": "684px",
+             "height": "19.9844px",
+             "textDecoration": "none"
+            },
+            "children": []
+           }
+          ]
+         },
+         {
+          "tag": "div",
+          "rect": {
+           "w": 684,
+           "h": 248
+          },
+          "styles": {
+           "fontSize": "15px",
+           "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+           "fontWeight": "400",
+           "color": "rgb(34, 34, 34)",
+           "backgroundColor": "rgba(0, 0, 0, 0)",
+           "border": "0px none rgb(34, 34, 34)",
+           "padding": "0px 0px 0px 0px",
+           "display": "flex",
+           "gap": "12px",
+           "width": "684px",
+           "height": "247.922px",
+           "textDecoration": "none"
+          },
+          "children": [
+           {
+            "tag": "form",
+            "rect": {
+             "w": 684,
+             "h": 176
+            },
+            "styles": {
+             "fontSize": "15px",
+             "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+             "fontWeight": "400",
+             "color": "rgb(34, 34, 34)",
+             "backgroundColor": "rgba(0, 0, 0, 0)",
+             "border": "0px none rgb(34, 34, 34)",
+             "padding": "0px 0px 0px 0px",
+             "display": "flex",
+             "gap": "normal",
+             "width": "684px",
+             "height": "175.969px",
+             "textDecoration": "none"
+            },
+            "children": []
+           },
+           {
+            "tag": "p",
+            "rect": {
+             "w": 684,
+             "h": 60
+            },
+            "text": "By signing up, you consent to receiving marketing by email and/or SMS and acknowledge you have read our . ",
+            "styles": {
+             "fontSize": "15px",
+             "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Aria",
+             "fontWeight": "400",
+             "color": "rgb(34, 34, 34)",
+             "backgroundColor": "rgba(0, 0, 0, 0)",
+             "border": "0px none rgb(34, 34, 34)",
+             "padding": "0px 0px 0px 0px",
+             "display": "block",
+             "gap": "normal",
+             "width": "684px",
+             "height": "59.9531px",
+             "textDecoration": "none"
+            },
+            "children": []
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

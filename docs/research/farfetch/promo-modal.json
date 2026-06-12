@@ -1,0 +1,16 @@
+{
+  "found": true,
+  "text": "Enjoy 20% off on sale items\n\nFor a limited time: enjoy up to 60% off, plus 20% off selected styles\n\nDismiss\nShop now",
+  "imgs": [
+    {
+      "src": "https://cdn-images.farfetch-contents.com/contextualimages/CI_d0c99a14-b59b-4326-b109-75779df4cda3_600.jpg",
+      "w": 600,
+      "h": 240
+    }
+  ],
+  "rect": {
+    "w": 507,
+    "h": 400
+  },
+  "html": "<div anchorto=\"right\" role=\"dialog\" data-testid=\"summary-desktop\" data-component=\"ConnectedModalDesktop\" data-isopen=\"true\" aria-modal=\"true\" class=\"ltr-1swhr4w\" data-isscrollable=\"false\" data-scrolled=\"false\" data-scrolledtobottom=\"true\"><button data-testid=\"summary-desktop-close\" data-component=\"ModalCloseButton\" aria-label=\"Close\" aria-disabled=\"false\" class=\"ltr-1l5l47t\" data-loading=\"false\"><svg data-component=\"Icon\" class=\"ltr-15kvush\" aria-hidden=\"true\"><use xlink:href=\"#iconLoaded-cross\"></use></svg></button><div data-component=\"ModalHeader\" class=\"ltr-4l2d0g\"><p data-component=\"ModalTitle\" class=\"ltr-1577tx-Heading\"><span class=\"ltr-1089mxj e2wcyi60\">Enjoy </span><span class=\"ltr-1089mxj e2wcyi60\">20%</span><span class=\"ltr-1089mxj e2wcyi60\"> off on sale items</span></p></div><div data-testid=\"summary-body\" data-scrollable=\"true\" data-component=\"ModalContent\" class=\"ltr-pl2d07\"><div class=\"ltr-16etosf\"><div data-is-loaded=\"true\" data-component=\"Container\" class=\"ltr-6yhdo0\"><img src=\"https://cdn-images.farfetch-contents.com/contextualimages/CI_d0c99a14-b59b-4326-b109-75779df4cda3_600.jpg\" loading=\"lazy\" width=\"352\" height=\"140\" data-component=\"Img\" class=\"e9ibw60 ltr-1smcdgj\"></div><p data-component=\"Body\" class=\"ltr-4y8w0i-Body\"><span class=\"ltr-1089mxj e2wcyi60\">For a limited time: enjoy up to 60% off, plus 20% off selected styles</span></p></div></div><div data-component=\"ModalFooter\" class=\"ltr-1nxe4hl\"><div data-component=\"ButtonsStack\" class=\"ltr-wz0aua\"><button aria-disabled=\"false\" class=\"ltr-1o48ulb\" data-loading=\"false\">Dismiss</button><a href=\"/promotions/men/summer-promotion\" aria-disabled=\"false\" class=\"ltr-1ojpv6f\" data-loading=\"false\">Shop now</a></div></div></div>"
+}

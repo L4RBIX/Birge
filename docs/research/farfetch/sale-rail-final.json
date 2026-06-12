@@ -1,0 +1,262 @@
+{
+ "attempt": 0,
+ "allHeadings": [
+  "New in: handpicked daily from the world’s best brands and boutiques",
+  "20% off sale items"
+ ],
+ "heading": "20% off sale items",
+ "ctaLabel": "Shop Now",
+ "ctaHref": "/kz/promotions/men/summer-promotion",
+ "products": [
+  {
+   "href": "/kz/shopping/men/jacob-cohen-denim-jacket-item-29510356.aspx",
+   "aria": null,
+   "img": {
+    "src": "https://cdn-images.farfetch-contents.com/29/51/03/56/29510356_58551338_600.jpg"
+   },
+   "texts": [
+    {
+     "t": "Special Offer",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "Jacob Cohën",
+     "fs": "15px",
+     "fw": "700",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "denim jacket",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "$723",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(114, 114, 114)",
+     "td": "line-through"
+    },
+    {
+     "t": "$549",
+     "fs": "15px",
+     "fw": "700",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "-20%",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    }
+   ],
+   "spans": []
+  },
+  {
+   "href": "/kz/shopping/men/apc-buckled-backpack-item-34026009.aspx",
+   "aria": null,
+   "img": {
+    "src": "https://cdn-images.farfetch-contents.com/34/02/60/09/34026009_65166053_600.jpg"
+   },
+   "texts": [
+    {
+     "t": "Special Offer",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "A.P.C.",
+     "fs": "15px",
+     "fw": "700",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "buckled backpack",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "$397",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(114, 114, 114)",
+     "td": "line-through"
+    },
+    {
+     "t": "$344",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(231, 29, 52)",
+     "td": "line-through"
+    },
+    {
+     "t": "$275",
+     "fs": "15px",
+     "fw": "700",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "-10%",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(231, 29, 52)",
+     "td": "none"
+    },
+    {
+     "t": "-20%",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    }
+   ],
+   "spans": []
+  },
+  {
+   "href": "/kz/shopping/men/philipp-plein-logo-t-shirt-item-32462898.aspx",
+   "aria": null,
+   "img": {
+    "src": "https://cdn-images.farfetch-contents.com/32/46/28/98/32462898_65689799_600.jpg"
+   },
+   "texts": [
+    {
+     "t": "Special Offer",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "Philipp Plein",
+     "fs": "15px",
+     "fw": "700",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "logo T-shirt",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "$421",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(114, 114, 114)",
+     "td": "line-through"
+    },
+    {
+     "t": "$252",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(231, 29, 52)",
+     "td": "line-through"
+    },
+    {
+     "t": "$202",
+     "fs": "15px",
+     "fw": "700",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "-40%",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(231, 29, 52)",
+     "td": "none"
+    },
+    {
+     "t": "-20%",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    }
+   ],
+   "spans": []
+  },
+  {
+   "href": "/kz/shopping/men/paul-smith-floral-shirt-item-34766194.aspx",
+   "aria": null,
+   "img": {
+    "src": "https://cdn-images.farfetch-contents.com/34/76/61/94/34766194_66105996_600.jpg"
+   },
+   "texts": [
+    {
+     "t": "Special Offer",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "Paul Smith",
+     "fs": "15px",
+     "fw": "700",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "floral shirt",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "$279",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(114, 114, 114)",
+     "td": "line-through"
+    },
+    {
+     "t": "$251",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(231, 29, 52)",
+     "td": "line-through"
+    },
+    {
+     "t": "$201",
+     "fs": "15px",
+     "fw": "700",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    },
+    {
+     "t": "-10%",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(231, 29, 52)",
+     "td": "none"
+    },
+    {
+     "t": "-20%",
+     "fs": "13px",
+     "fw": "400",
+     "color": "rgb(34, 34, 34)",
+     "td": "none"
+    }
+   ],
+   "spans": []
+  }
+ ]
+}

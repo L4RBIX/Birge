@@ -1,0 +1,807 @@
+{
+ "tag": "div",
+ "testid": "help-bar",
+ "rect": {
+  "x": 24,
+  "y": 5051,
+  "w": 1392,
+  "h": 110
+ },
+ "styles": {
+  "fontSize": "15px",
+  "fontWeight": "400",
+  "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+  "lineHeight": "19.9995px",
+  "color": "rgb(34, 34, 34)",
+  "marginTop": "54px",
+  "marginRight": "24px",
+  "marginBottom": "54px",
+  "marginLeft": "24px",
+  "width": "1392px",
+  "height": "109.969px",
+  "maxWidth": "1440px",
+  "display": "grid",
+  "gap": "16px 24px",
+  "flex": "0 1 auto",
+  "gridTemplateColumns": "448px 448px 448px",
+  "gridAutoFlow": "column",
+  "border": "0px none rgb(34, 34, 34)",
+  "borderTop": "0px none rgb(34, 34, 34)",
+  "borderBottom": "0px none rgb(34, 34, 34)",
+  "transition": "all",
+  "objectFit": "fill",
+  "textOverflow": "clip",
+  "textAlign": "start",
+  "verticalAlign": "baseline"
+ },
+ "children": [
+  {
+   "tag": "article",
+   "rect": {
+    "x": 24,
+    "y": 5051,
+    "w": 448,
+    "h": 110
+   },
+   "styles": {
+    "fontSize": "15px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "lineHeight": "19.9995px",
+    "color": "rgb(34, 34, 34)",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "paddingTop": "16px",
+    "paddingRight": "16px",
+    "paddingBottom": "16px",
+    "paddingLeft": "16px",
+    "width": "448px",
+    "height": "109.969px",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "8px",
+    "flex": "0 1 auto",
+    "border": "1px solid rgb(182, 182, 182)",
+    "borderTop": "1px solid rgb(182, 182, 182)",
+    "borderBottom": "1px solid rgb(182, 182, 182)",
+    "overflow": "hidden",
+    "overflowX": "hidden",
+    "position": "relative",
+    "transition": "background-color 0.3s cubic-bezier(0, 0, 0, 1), border-color 0.3s cubic-bezier(0, 0, 0, 1), color 0.3s cubic-bezier(0, 0, 0, 1)",
+    "objectFit": "fill",
+    "textOverflow": "clip",
+    "textAlign": "start",
+    "verticalAlign": "baseline"
+   },
+   "children": [
+    {
+     "tag": "div",
+     "rect": {
+      "x": 41,
+      "y": 5068,
+      "w": 414,
+      "h": 24
+     },
+     "styles": {
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "19.9995px",
+      "color": "rgb(34, 34, 34)",
+      "width": "414px",
+      "height": "24px",
+      "display": "flex",
+      "flexDirection": "column",
+      "gap": "16px",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(34, 34, 34)",
+      "borderTop": "0px none rgb(34, 34, 34)",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "clip",
+      "textAlign": "start",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "svg",
+       "rect": {
+        "x": 41,
+        "y": 5068,
+        "w": 24,
+        "h": 24
+       },
+       "svg": "<svg aria-hidden=\"true\" data-component=\"Icon\" class=\"ltr-15kvush\"><use xlink:href=\"#iconLoaded-hanger\"></use></svg>",
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "width": "24px",
+        "height": "24px",
+        "display": "block",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "overflow": "hidden",
+        "overflowX": "hidden",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "use",
+         "rect": {
+          "x": 43,
+          "y": 5073,
+          "w": 20,
+          "h": 14
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "display": "inline",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tag": "div",
+     "rect": {
+      "x": 41,
+      "y": 5100,
+      "w": 414,
+      "h": 44
+     },
+     "styles": {
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "19.9995px",
+      "color": "rgb(34, 34, 34)",
+      "width": "414px",
+      "height": "43.9688px",
+      "display": "flex",
+      "flexDirection": "column",
+      "gap": "4px",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(34, 34, 34)",
+      "borderTop": "0px none rgb(34, 34, 34)",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "clip",
+      "textAlign": "start",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "p",
+       "rect": {
+        "x": 41,
+        "y": 5100,
+        "w": 414,
+        "h": 20
+       },
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "textTransform": "uppercase",
+        "width": "414px",
+        "height": "19.9844px",
+        "display": "block",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "a",
+         "href": "/kz/how-to-shop",
+         "rect": {
+          "x": 41,
+          "y": 5102,
+          "w": 106,
+          "h": 15
+         },
+         "text": "How to shop",
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "textTransform": "uppercase",
+          "display": "inline",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "cursor": "pointer",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": []
+        }
+       ]
+      },
+      {
+       "tag": "p",
+       "rect": {
+        "x": 41,
+        "y": 5124,
+        "w": 414,
+        "h": 20
+       },
+       "text": "Your guide to shopping and placing orders",
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "width": "414px",
+        "height": "19.9844px",
+        "display": "block",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "article",
+   "rect": {
+    "x": 496,
+    "y": 5051,
+    "w": 448,
+    "h": 110
+   },
+   "styles": {
+    "fontSize": "15px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "lineHeight": "19.9995px",
+    "color": "rgb(34, 34, 34)",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "paddingTop": "16px",
+    "paddingRight": "16px",
+    "paddingBottom": "16px",
+    "paddingLeft": "16px",
+    "width": "448px",
+    "height": "109.969px",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "8px",
+    "flex": "0 1 auto",
+    "border": "1px solid rgb(182, 182, 182)",
+    "borderTop": "1px solid rgb(182, 182, 182)",
+    "borderBottom": "1px solid rgb(182, 182, 182)",
+    "overflow": "hidden",
+    "overflowX": "hidden",
+    "position": "relative",
+    "transition": "background-color 0.3s cubic-bezier(0, 0, 0, 1), border-color 0.3s cubic-bezier(0, 0, 0, 1), color 0.3s cubic-bezier(0, 0, 0, 1)",
+    "objectFit": "fill",
+    "textOverflow": "clip",
+    "textAlign": "start",
+    "verticalAlign": "baseline"
+   },
+   "children": [
+    {
+     "tag": "div",
+     "rect": {
+      "x": 513,
+      "y": 5068,
+      "w": 414,
+      "h": 24
+     },
+     "styles": {
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "19.9995px",
+      "color": "rgb(34, 34, 34)",
+      "width": "414px",
+      "height": "24px",
+      "display": "flex",
+      "flexDirection": "column",
+      "gap": "16px",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(34, 34, 34)",
+      "borderTop": "0px none rgb(34, 34, 34)",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "clip",
+      "textAlign": "start",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "svg",
+       "rect": {
+        "x": 513,
+        "y": 5068,
+        "w": 24,
+        "h": 24
+       },
+       "svg": "<svg aria-hidden=\"true\" data-component=\"Icon\" class=\"ltr-15kvush\"><use xlink:href=\"#iconLoaded-questionMarkCircle\"></use></svg>",
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "width": "24px",
+        "height": "24px",
+        "display": "block",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "overflow": "hidden",
+        "overflowX": "hidden",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "use",
+         "rect": {
+          "x": 515,
+          "y": 5070,
+          "w": 20,
+          "h": 20
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "display": "inline",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tag": "div",
+     "rect": {
+      "x": 513,
+      "y": 5100,
+      "w": 414,
+      "h": 44
+     },
+     "styles": {
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "19.9995px",
+      "color": "rgb(34, 34, 34)",
+      "width": "414px",
+      "height": "43.9688px",
+      "display": "flex",
+      "flexDirection": "column",
+      "gap": "4px",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(34, 34, 34)",
+      "borderTop": "0px none rgb(34, 34, 34)",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "clip",
+      "textAlign": "start",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "p",
+       "rect": {
+        "x": 513,
+        "y": 5100,
+        "w": 414,
+        "h": 20
+       },
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "textTransform": "uppercase",
+        "width": "414px",
+        "height": "19.9844px",
+        "display": "block",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "a",
+         "href": "/kz/faqs",
+         "rect": {
+          "x": 513,
+          "y": 5102,
+          "w": 40,
+          "h": 15
+         },
+         "text": "FAQs",
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "textTransform": "uppercase",
+          "display": "inline",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "cursor": "pointer",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": []
+        }
+       ]
+      },
+      {
+       "tag": "p",
+       "rect": {
+        "x": 513,
+        "y": 5124,
+        "w": 414,
+        "h": 20
+       },
+       "text": "Your questions answered",
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "width": "414px",
+        "height": "19.9844px",
+        "display": "block",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "article",
+   "rect": {
+    "x": 968,
+    "y": 5051,
+    "w": 448,
+    "h": 110
+   },
+   "styles": {
+    "fontSize": "15px",
+    "fontWeight": "400",
+    "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "lineHeight": "19.9995px",
+    "color": "rgb(34, 34, 34)",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "paddingTop": "16px",
+    "paddingRight": "16px",
+    "paddingBottom": "16px",
+    "paddingLeft": "16px",
+    "width": "448px",
+    "height": "109.969px",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "8px",
+    "flex": "0 1 auto",
+    "border": "1px solid rgb(182, 182, 182)",
+    "borderTop": "1px solid rgb(182, 182, 182)",
+    "borderBottom": "1px solid rgb(182, 182, 182)",
+    "overflow": "hidden",
+    "overflowX": "hidden",
+    "position": "relative",
+    "transition": "background-color 0.3s cubic-bezier(0, 0, 0, 1), border-color 0.3s cubic-bezier(0, 0, 0, 1), color 0.3s cubic-bezier(0, 0, 0, 1)",
+    "objectFit": "fill",
+    "textOverflow": "clip",
+    "textAlign": "start",
+    "verticalAlign": "baseline"
+   },
+   "children": [
+    {
+     "tag": "div",
+     "rect": {
+      "x": 985,
+      "y": 5068,
+      "w": 414,
+      "h": 24
+     },
+     "styles": {
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "19.9995px",
+      "color": "rgb(34, 34, 34)",
+      "width": "414px",
+      "height": "24px",
+      "display": "flex",
+      "flexDirection": "column",
+      "gap": "16px",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(34, 34, 34)",
+      "borderTop": "0px none rgb(34, 34, 34)",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "clip",
+      "textAlign": "start",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "svg",
+       "rect": {
+        "x": 985,
+        "y": 5068,
+        "w": 24,
+        "h": 24
+       },
+       "svg": "<svg aria-hidden=\"true\" data-component=\"Icon\" class=\"ltr-15kvush\"><use xlink:href=\"#iconLoaded-bubble\"></use></svg>",
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "width": "24px",
+        "height": "24px",
+        "display": "block",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "overflow": "hidden",
+        "overflowX": "hidden",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "use",
+         "rect": {
+          "x": 987,
+          "y": 5070,
+          "w": 20,
+          "h": 20
+         },
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "display": "inline",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tag": "div",
+     "rect": {
+      "x": 985,
+      "y": 5100,
+      "w": 414,
+      "h": 44
+     },
+     "styles": {
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "lineHeight": "19.9995px",
+      "color": "rgb(34, 34, 34)",
+      "width": "414px",
+      "height": "43.9688px",
+      "display": "flex",
+      "flexDirection": "column",
+      "gap": "4px",
+      "flex": "0 1 auto",
+      "border": "0px none rgb(34, 34, 34)",
+      "borderTop": "0px none rgb(34, 34, 34)",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "transition": "all",
+      "objectFit": "fill",
+      "textOverflow": "clip",
+      "textAlign": "start",
+      "verticalAlign": "baseline"
+     },
+     "children": [
+      {
+       "tag": "p",
+       "rect": {
+        "x": 985,
+        "y": 5100,
+        "w": 414,
+        "h": 20
+       },
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "textTransform": "uppercase",
+        "width": "414px",
+        "height": "19.9844px",
+        "display": "block",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": [
+        {
+         "tag": "a",
+         "href": "/kz/contact-us",
+         "rect": {
+          "x": 985,
+          "y": 5102,
+          "w": 88,
+          "h": 15
+         },
+         "text": "Need help?",
+         "styles": {
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+          "lineHeight": "19.9995px",
+          "color": "rgb(34, 34, 34)",
+          "textTransform": "uppercase",
+          "display": "inline",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(34, 34, 34)",
+          "borderTop": "0px none rgb(34, 34, 34)",
+          "borderBottom": "0px none rgb(34, 34, 34)",
+          "transition": "all",
+          "cursor": "pointer",
+          "objectFit": "fill",
+          "textOverflow": "clip",
+          "textAlign": "start",
+          "verticalAlign": "baseline"
+         },
+         "children": []
+        }
+       ]
+      },
+      {
+       "tag": "p",
+       "rect": {
+        "x": 985,
+        "y": 5124,
+        "w": 414,
+        "h": 20
+       },
+       "text": "Contact our global Customer Service team",
+       "styles": {
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+        "lineHeight": "19.9995px",
+        "color": "rgb(34, 34, 34)",
+        "width": "414px",
+        "height": "19.9844px",
+        "display": "block",
+        "flex": "0 1 auto",
+        "border": "0px none rgb(34, 34, 34)",
+        "borderTop": "0px none rgb(34, 34, 34)",
+        "borderBottom": "0px none rgb(34, 34, 34)",
+        "transition": "all",
+        "objectFit": "fill",
+        "textOverflow": "clip",
+        "textAlign": "start",
+        "verticalAlign": "baseline"
+       },
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

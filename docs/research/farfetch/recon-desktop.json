@@ -1,0 +1,389 @@
+{
+  "meta": {
+    "title": "FARFETCH - The Global Destination For Modern Luxury",
+    "description": "From the world’s best designer fashion to emerging brands, open doors to 100.000+ styles on FARFETCH. ✈ Get express delivery & free returns."
+  },
+  "favicons": [
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/images/favicon/Farfetch/apple-touch-icon-180x180.png",
+      "sizes": "180x180"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/images/favicon/Farfetch/apple-touch-icon-152x152.png",
+      "sizes": "152x152"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/images/favicon/Farfetch/apple-touch-icon-120x120.png",
+      "sizes": "120x120"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/images/favicon/Farfetch/apple-touch-icon-76x76.png",
+      "sizes": "76x76"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/images/favicon/Farfetch/apple-touch-icon-60x60.png",
+      "sizes": "60x60"
+    },
+    {
+      "rel": "icon",
+      "href": "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/images/favicon/Farfetch/favicon.svg",
+      "sizes": ""
+    },
+    {
+      "rel": "mask-icon",
+      "href": "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/images/favicon/Farfetch/favicon.svg",
+      "sizes": ""
+    },
+    {
+      "rel": "shortcut icon",
+      "href": "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/images/favicon/Farfetch/favicon.svg",
+      "sizes": ""
+    }
+  ],
+  "fontLinks": [
+    "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/38001.client.2be1508017bb55b8a606.css",
+    "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/pages/content/default.client.b196de74f6acdddad27d.css",
+    "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/71893.client.1c796343a03053316fbb.css",
+    "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/26877.client.664c4321deea035acb27.css",
+    "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/88905.client.b8c9c04658f875f38516.css",
+    "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/69071.client.b8c9c04658f875f38516.css",
+    "https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/75222.client.1b35a608ff2753bdf71f.css"
+  ],
+  "fontFaces": [
+    "@font-face { font-family: \"Nimbus Roman D\"; src: url(\"https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/fonts/v3.00/NimbusRomanD-Regular.woff2\") format(\"woff2\"), url(\"https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/fonts/v3.00/NimbusRomanD-Regular.woff\") format(\"woff\"); font-display: swap; font-style: normal; }",
+    "@font-face { font-family: \"Farfetch Basis\"; src: url(\"https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/fonts/v3.00/FarfetchBasis-Regular.woff2\") format(\"woff2\"), url(\"https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/fonts/v3.00/FarfetchBasis-Regular.woff\") format(\"woff\"); font-display: swap; font-weight: 400; font-style: norma",
+    "@font-face { font-family: \"Farfetch Basis\"; src: url(\"https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/fonts/v3.00/FarfetchBasis-Bold.woff2\") format(\"woff2\"), url(\"https://cdn-static.farfetch-contents.com/assets/portal-core-appportal/desktop/public/fonts/v3.00/FarfetchBasis-Bold.woff\") format(\"woff\"); font-display: swap; font-weight: 700; font-style: normal; }"
+  ],
+  "fontsUsed": [
+    "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+    "\"Nimbus Roman D\", \"Times New Roman\", serif"
+  ],
+  "headerLinks": [
+    {
+      "text": "Menswear",
+      "href": null,
+      "aria": null
+    },
+    {
+      "text": "Womenswear",
+      "href": "https://www.farfetch.com/kz/shopping/women/items.aspx",
+      "aria": null
+    },
+    {
+      "text": "Menswear",
+      "href": "https://www.farfetch.com/kz/shopping/men/items.aspx",
+      "aria": null
+    },
+    {
+      "text": "Kidswear",
+      "href": "https://www.farfetch.com/kz/shopping/kids/items.aspx",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "https://www.farfetch.com/kz/",
+      "aria": "FARFETCH homepage."
+    },
+    {
+      "text": "",
+      "href": null,
+      "aria": "Language and region"
+    },
+    {
+      "text": "",
+      "href": null,
+      "aria": "Login page."
+    },
+    {
+      "text": "",
+      "href": "https://www.farfetch.com/kz/wishlist",
+      "aria": "Wishlist 0 items."
+    },
+    {
+      "text": "",
+      "href": "https://www.farfetch.com/kz/checkout/basket.aspx",
+      "aria": "Bag 0 items."
+    },
+    {
+      "text": "Sale",
+      "href": "https://www.farfetch.com/kz/shopping/men/sale/all/items.aspx",
+      "aria": null
+    },
+    {
+      "text": "New in",
+      "href": "https://www.farfetch.com/kz/sets/new-in-this-week-eu-men.aspx",
+      "aria": null
+    },
+    {
+      "text": "Vacation",
+      "href": "https://www.farfetch.com/kz/sets/vacation-men.aspx",
+      "aria": null
+    },
+    {
+      "text": "Brands",
+      "href": "https://www.farfetch.com/kz/designers/men",
+      "aria": null
+    },
+    {
+      "text": "Clothing",
+      "href": "https://www.farfetch.com/kz/shopping/men/clothing-2/items.aspx",
+      "aria": null
+    },
+    {
+      "text": "Shoes",
+      "href": "https://www.farfetch.com/kz/shopping/men/shoes-2/items.aspx",
+      "aria": null
+    },
+    {
+      "text": "Bags",
+      "href": "https://www.farfetch.com/kz/shopping/men/bags-purses-2/items.aspx",
+      "aria": null
+    },
+    {
+      "text": "Accessories",
+      "href": "https://www.farfetch.com/kz/shopping/men/accessories-all-2/items.aspx",
+      "aria": null
+    },
+    {
+      "text": "Watches",
+      "href": "https://www.farfetch.com/kz/shopping/men/watches-4/items.aspx",
+      "aria": null
+    },
+    {
+      "text": "Lifestyle",
+      "href": null,
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": null,
+      "aria": "Search."
+    },
+    {
+      "text": "",
+      "href": null,
+      "aria": "Close search."
+    }
+  ],
+  "products": [
+    {
+      "imgCount": 0,
+      "texts": [
+        "Shop the SS26 sale : up to 60% off"
+      ],
+      "href": "https://www.farfetch.com/shopping/men/sale/all/items.aspx"
+    },
+    {
+      "imgCount": 0,
+      "texts": [],
+      "href": "https://www.farfetch.com/kz/shopping/women/items.aspx"
+    },
+    {
+      "imgCount": 0,
+      "texts": [],
+      "href": "https://www.farfetch.com/kz/shopping/men/items.aspx"
+    },
+    {
+      "imgCount": 0,
+      "texts": [],
+      "href": "https://www.farfetch.com/kz/shopping/kids/items.aspx"
+    },
+    {
+      "imgCount": 0,
+      "texts": [],
+      "href": "https://www.farfetch.com/kz/shopping/men/sale/all/items.aspx"
+    },
+    {
+      "imgCount": 0,
+      "texts": [],
+      "href": "https://www.farfetch.com/kz/shopping/men/clothing-2/items.aspx"
+    },
+    {
+      "imgCount": 0,
+      "texts": [],
+      "href": "https://www.farfetch.com/kz/shopping/men/shoes-2/items.aspx"
+    },
+    {
+      "imgCount": 0,
+      "texts": [],
+      "href": "https://www.farfetch.com/kz/shopping/men/bags-purses-2/items.aspx"
+    },
+    {
+      "imgCount": 0,
+      "texts": [],
+      "href": "https://www.farfetch.com/kz/shopping/men/accessories-all-2/items.aspx"
+    },
+    {
+      "imgCount": 0,
+      "texts": [],
+      "href": "https://www.farfetch.com/kz/shopping/men/watches-4/items.aspx"
+    }
+  ],
+  "imageCount": 18,
+  "images": [
+    {
+      "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689974/data/9ad0aa63fe62e78615810c069fdec03a/3x4_messaging-side/936/2026-06-08-mw-webapp-nh-summer-events-vacation-multibrand-multicategory-img.jpeg",
+      "alt": "",
+      "w": 936,
+      "h": 1248
+    },
+    {
+      "src": "https://cdn-images.farfetch-contents.com/36/28/13/46/36281346_68487648_600.jpg",
+      "alt": "",
+      "w": 600,
+      "h": 800
+    },
+    {
+      "src": "https://cdn-images.farfetch-contents.com/34/07/68/77/34076877_68955679_600.jpg",
+      "alt": "",
+      "w": 600,
+      "h": 800
+    },
+    {
+      "src": "https://cdn-images.farfetch-contents.com/36/74/60/00/36746000_68904702_600.jpg",
+      "alt": "",
+      "w": 600,
+      "h": 800
+    },
+    {
+      "src": "https://cdn-images.farfetch-contents.com/33/79/18/11/33791811_68950015_600.jpg",
+      "alt": "",
+      "w": 600,
+      "h": 800
+    },
+    {
+      "src": "https://cdn-images.farfetch-contents.com/29/51/03/56/29510356_58551338_600.jpg",
+      "alt": "",
+      "w": 600,
+      "h": 801
+    },
+    {
+      "src": "https://cdn-images.farfetch-contents.com/34/02/60/09/34026009_65166053_600.jpg",
+      "alt": "",
+      "w": 600,
+      "h": 801
+    },
+    {
+      "src": "https://cdn-images.farfetch-contents.com/32/46/28/98/32462898_65689799_600.jpg",
+      "alt": "",
+      "w": 600,
+      "h": 800
+    },
+    {
+      "src": "https://cdn-images.farfetch-contents.com/34/76/61/94/34766194_66105996_600.jpg",
+      "alt": "",
+      "w": 600,
+      "h": 800
+    },
+    {
+      "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682176/data/f883fbd190693fed08b5ea7c834fcb76/3x4_four-columns/480/2026-05-25-mw-webapp-casablanca-vacation-casablanca-multicategory-img.jpeg",
+      "alt": "",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682326/data/e4e5215d116f5e5ea7400e436a0d224f/3x4_four-columns/480/2026-05-25-mw-webapp-jackets-vacation-multibrand-jackets-img.jpeg",
+      "alt": "",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682258/data/ceacf3ffd70280b202c4e60a3e526819/3x4_four-columns/480/2026-05-25-mw-webapp-luggage-holdalls-vacation-multibrand-multicategory-img.jpeg",
+      "alt": "",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10682290/data/eb59c81b18108a96ccd54a4d34479172/3x4_four-columns/480/2026-05-25-mw-webapp-shorts-vacation-multibrand-shorts-img.jpeg",
+      "alt": "",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689362/data/c12eb97eddd514bddf97bf716ad63864/3x4/640/2026-06-01-mw-webapp-lardini-vacation-lardini-multicategory-img.jpeg",
+      "alt": "",
+      "w": 640,
+      "h": 853
+    },
+    {
+      "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689366/data/1c2af6f0953033ac798223f2766be606/3x4/640/2026-06-01-mw-webapp-boggi-milano-vacation-boggi-milano-multicategory-img.jpeg",
+      "alt": "",
+      "w": 640,
+      "h": 853
+    },
+    {
+      "src": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10689370/data/7b4c96929ac4ef69b0e09503b8d67d97/3x4/640/2026-06-01-mw-webapp-maniere-de-voir-vacation-maniere-de-voir-multicategory-img.jpeg",
+      "alt": "",
+      "w": 640,
+      "h": 853
+    },
+    {
+      "src": "https://cdn-images.farfetch-contents.com/contextualimages/CI_d0c99a14-b59b-4326-b109-75779df4cda3_600.jpg",
+      "alt": "",
+      "w": 600,
+      "h": 240
+    },
+    {
+      "src": "https://bat.bing.com/action/0?ti=4008469&tm=gtm002&Ver=2&mid=c7af1a9d-8bfd-4a47-ac77-f5871bbf694d&bo=2&sid=ab5022c0656111f19fe43febc079d6ec&vid=ab502f70656111f19f28d1cc55ba89d2&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1440&sh=900&sc=24&tl=FARFETCH%20-%20The%20Global%20Destination%20For%20Modern%20L",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    }
+  ],
+  "svgCount": 46,
+  "styleSamples": {
+    "body": {
+      "fontFamily": "\"Farfetch Basis\", \"Helvetica Neue\", Arial, sans-serif",
+      "fontSize": "15px",
+      "fontWeight": "400",
+      "lineHeight": "19.9995px",
+      "letterSpacing": "normal",
+      "color": "rgb(34, 34, 34)",
+      "textTransform": "none",
+      "backgroundColor": "rgb(255, 255, 255)"
+    },
+    "h1": null,
+    "headerEl": {
+      "backgroundColor": "rgb(255, 255, 255)",
+      "position": "sticky",
+      "height": "124px",
+      "borderBottom": "0px none rgb(34, 34, 34)",
+      "zIndex": "200"
+    },
+    "firstCardBrand": null,
+    "pageBackground": "rgba(0, 0, 0, 0)"
+  },
+  "sections": [
+    {
+      "tag": "div",
+      "id": null,
+      "classes": "ltr-wn2fdi",
+      "testid": null,
+      "rect": {
+        "h": 5533
+      },
+      "textStart": "Whatever the occasionFor summer weddings, garden parties and everything in-between, decode the dress code with AMI Paris"
+    },
+    {
+      "tag": "div",
+      "id": null,
+      "classes": "ltr-fbe9j2",
+      "testid": "help-bar",
+      "rect": {
+        "h": 110
+      },
+      "textStart": "How to shopYour guide to shopping and placing ordersFAQsYour questions answeredNeed help?Contact our global Customer Ser"
+    }
+  ],
+  "framework": {
+    "nextData": false,
+    "nuxt": false,
+    "reactRoot": true
+  },
+  "pageHeight": 6679
+}
